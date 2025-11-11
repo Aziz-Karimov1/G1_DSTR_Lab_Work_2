@@ -1,0 +1,1201 @@
+id,name,conditionType
+2000,Karim Ng,Cut/Laceration
+2001,Irfan Singh,Migraine
+2002,Nur Halim,Migraine
+2003,Isabella Mah,Influenza
+2004,Mei Halim,Food Poisoning
+2005,Farid Teo,Asthma
+2006,Noah Yong,Food Poisoning
+2007,Noah Hassan,Migraine
+2008,Nadia Abdullah,Dehydration
+2009,Sofia Chong,Sprain
+2010,Karim Kaur,Dehydration
+2011,Nurul Teo,Allergy
+2012,Farah Chin,Allergy
+2013,Nurul Das,Allergy
+2014,Aisyah Lee,Cut/Laceration
+2015,Nadia Ong,Allergy
+2016,Chen Ibrahim,Food Poisoning
+2017,Irfan Chin,Food Poisoning
+2018,Aiman Rahman,Influenza
+2019,Isabella Ibrahim,Dehydration
+2020,Ling Goh,Dengue Suspected
+2021,Priya Kaur,Dehydration
+2022,Chen Sharma,Dehydration
+2023,Jonah Mah,Dehydration
+2024,Nur Ng,Fracture
+2025,Tanya Lim,Food Poisoning
+2026,Jonah Goh,Dehydration
+2027,Nurul Sharma,Fracture
+2028,Jia Teo,Food Poisoning
+2029,Nadia Rahman,Food Poisoning
+2030,Noah Chan,Influenza
+2031,Ravi Lim,Food Poisoning
+2032,Rina Tan,Influenza
+2033,Ava Farid,Dehydration
+2034,Hao Singh,Food Poisoning
+2035,Rina Ong,Sprain
+2036,Ravi Teo,Food Poisoning
+2037,Yusuf Teo,Migraine
+2038,Chen Goh,Dengue Suspected
+2039,Haziq Kumar,Fracture
+2040,Nadia Rahman,Migraine
+2041,Omar Tan,Allergy
+2042,Lina Kumar,Dehydration
+2043,Jia Kumar,Influenza
+2044,Jonah Tan,Fracture
+2045,Chen Yong,Asthma
+2046,Leela Tan,Cut/Laceration
+2047,Mei Krishnan,Food Poisoning
+2048,Sofia Iskandar,Influenza
+2049,Alya Chin,Dehydration
+2050,Siti Chan,Cut/Laceration
+2051,Rina Lim,Migraine
+2052,Jia Rahman,Dengue Suspected
+2053,Ahmad Tan,Asthma
+2054,Isabella Yong,Dengue Suspected
+2055,Sara Razak,Dengue Suspected
+2056,Siti Goh,Allergy
+2057,Yusuf Wong,Dehydration
+2058,Adam Lee,Cut/Laceration
+2059,Farid Krishnan,Migraine
+2060,Ali Kaur,Dehydration
+2061,Olivia Halim,Sprain
+2062,Farid Mah,Migraine
+2063,Nurul Farid,Influenza
+2064,Tanya Farid,Influenza
+2065,Nurul Kumar,Migraine
+2066,Jia Rahman,Influenza
+2067,Aiman Goh,Food Poisoning
+2068,Ravi Lee,Fracture
+2069,Ravi Chin,Food Poisoning
+2070,Nur Chong,Dengue Suspected
+2071,Liam Goh,Dengue Suspected
+2072,Daniel Ibrahim,Cut/Laceration
+2073,Haziq Chong,Allergy
+2074,Jia Das,Cut/Laceration
+2075,Ethan Ong,Dengue Suspected
+2076,Sara Ng,Dehydration
+2077,Rina Lim,Cut/Laceration
+2078,Liam Chan,Influenza
+2079,Zara Izzah,Migraine
+2080,Aiman Iskandar,Dengue Suspected
+2081,Rina Rahman,Asthma
+2082,Aiman Mah,Cut/Laceration
+2083,Rina Lee,Allergy
+2084,Lina Yong,Influenza
+2085,Adam Lim,Food Poisoning
+2086,Nur Teo,Allergy
+2087,Sofia Chin,Allergy
+2088,Siti Teo,Influenza
+2089,Farah Izzah,Fracture
+2090,Tanya Hussein,Migraine
+2091,Daniel Tan,Influenza
+2092,Lucas Sharma,Cut/Laceration
+2093,Zara Mah,Food Poisoning
+2094,Jia Kumar,Sprain
+2095,Hao Izzah,Cut/Laceration
+2096,Hannah Izzah,Influenza
+2097,Rahul Krishnan,Fracture
+2098,Karim Ng,Cut/Laceration
+2099,Nurul Kaur,Migraine
+2100,Ilya Mah,Food Poisoning
+2101,Amir Rahman,Food Poisoning
+2102,Ling Kumar,Fracture
+2103,Nurul Hussein,Asthma
+2104,Lucas Yong,Fracture
+2105,Leela Nair,Dehydration
+2106,Amir Abdullah,Dengue Suspected
+2107,Daniel Halim,Food Poisoning
+2108,Maya Teo,Allergy
+2109,Ahmad Halim,Allergy
+2110,Wei Goh,Influenza
+2111,Isabella Hussein,Dehydration
+2112,Zara Krishnan,Influenza
+2113,Sara Chan,Fracture
+2114,Aisyah Goh,Dehydration
+2115,Rahul Singh,Fracture
+2116,Jonah Ibrahim,Sprain
+2117,Priya Kumar,Dengue Suspected
+2118,Hao Chong,Cut/Laceration
+2119,Noah Chan,Migraine
+2120,Sofia Nair,Migraine
+2121,Yusuf Tan,Migraine
+2122,Ravi Wong,Dengue Suspected
+2123,Farah Razak,Allergy
+2124,Jia Izzah,Sprain
+2125,Hannah Wong,Allergy
+2126,Mei Abdullah,Allergy
+2127,Nadia Rahman,Migraine
+2128,Arjun Rahman,Influenza
+2129,Daniel Yong,Dengue Suspected
+2130,Jonah Hassan,Influenza
+2131,Emma Singh,Dengue Suspected
+2132,Hannah Goh,Allergy
+2133,Hakim Singh,Sprain
+2134,Jonah Abdullah,Sprain
+2135,Amir Iskandar,Migraine
+2136,Emma Teo,Influenza
+2137,Priya Rahman,Influenza
+2138,Farid Iskandar,Allergy
+2139,Nadia Iskandar,Dengue Suspected
+2140,Jia Izzah,Fracture
+2141,Alya Izzah,Cut/Laceration
+2142,Ilya Lim,Dengue Suspected
+2143,Ali Lee,Cut/Laceration
+2144,Hao Hussein,Fracture
+2145,Nurul Kumar,Allergy
+2146,Emma Teo,Allergy
+2147,Sara Abdullah,Dengue Suspected
+2148,Daniel Krishnan,Fracture
+2149,Ali Tan,Asthma
+2150,Ling Razak,Allergy
+2151,Daniel Chin,Dehydration
+2152,Ilya Ong,Dehydration
+2153,Karim Tan,Dengue Suspected
+2154,Emma Singh,Dehydration
+2155,Zara Mah,Allergy
+2156,Leela Rahman,Dengue Suspected
+2157,Emma Teo,Allergy
+2158,Ilya Singh,Fracture
+2159,Nur Ong,Cut/Laceration
+2160,Priya Abdullah,Cut/Laceration
+2161,Alya Singh,Migraine
+2162,Maya Das,Migraine
+2163,Mei Ng,Sprain
+2164,Irfan Chan,Dehydration
+2165,Nurul Kaur,Influenza
+2166,Liam Lee,Asthma
+2167,Noah Chan,Food Poisoning
+2168,Noah Kaur,Allergy
+2169,Ethan Sharma,Asthma
+2170,Omar Chan,Allergy
+2171,Ahmad Rahman,Allergy
+2172,Siti Rahman,Dehydration
+2173,Omar Ong,Dehydration
+2174,Hao Kaur,Dengue Suspected
+2175,Sofia Ibrahim,Dehydration
+2176,Kumar Kaur,Migraine
+2177,Leela Teo,Food Poisoning
+2178,Priya Ong,Cut/Laceration
+2179,Omar Wong,Asthma
+2180,Hao Rahman,Influenza
+2181,Olivia Halim,Allergy
+2182,Karim Mah,Influenza
+2183,Mei Goh,Dengue Suspected
+2184,Jia Ng,Influenza
+2185,Siti Teo,Cut/Laceration
+2186,Emma Abdullah,Cut/Laceration
+2187,Farid Iskandar,Fracture
+2188,Chen Mah,Asthma
+2189,Farid Chan,Fracture
+2190,Hakim Teo,Sprain
+2191,Hakim Wong,Fracture
+2192,Ethan Mah,Food Poisoning
+2193,Ravi Chin,Asthma
+2194,Ravi Ibrahim,Influenza
+2195,Lucas Yong,Dehydration
+2196,Hakim Izzah,Sprain
+2197,Priya Das,Asthma
+2198,Liam Lee,Migraine
+2199,Hao Nair,Fracture
+2200,Sofia Chong,Asthma
+2201,Ethan Ong,Asthma
+2202,Arjun Halim,Migraine
+2203,Rahul Krishnan,Sprain
+2204,Karim Sharma,Influenza
+2205,Lina Kumar,Fracture
+2206,Zara Teo,Dehydration
+2207,Emma Halim,Migraine
+2208,Tanya Iskandar,Fracture
+2209,Aiman Izzah,Migraine
+2210,Kumar Singh,Dehydration
+2211,Amir Rahman,Dehydration
+2212,Nur Singh,Influenza
+2213,Hannah Chan,Fracture
+2214,Irfan Tan,Cut/Laceration
+2215,Zara Chin,Migraine
+2216,Jonah Farid,Food Poisoning
+2217,Isabella Abdullah,Migraine
+2218,Nur Tan,Migraine
+2219,Ali Abdullah,Cut/Laceration
+2220,Haziq Hussein,Sprain
+2221,Liam Hussein,Dengue Suspected
+2222,Ling Krishnan,Influenza
+2223,Ali Goh,Food Poisoning
+2224,Ava Ong,Influenza
+2225,Ravi Wong,Dengue Suspected
+2226,Karim Ong,Influenza
+2227,Ava Sharma,Cut/Laceration
+2228,Ilya Mah,Cut/Laceration
+2229,Aiman Das,Sprain
+2230,Adam Razak,Migraine
+2231,Rahul Mah,Migraine
+2232,Mei Chong,Food Poisoning
+2233,Zara Sharma,Asthma
+2234,Tanya Tan,Migraine
+2235,Karim Izzah,Dehydration
+2236,Lucas Hussein,Food Poisoning
+2237,Ethan Singh,Sprain
+2238,Liam Abdullah,Fracture
+2239,Jonah Abdullah,Cut/Laceration
+2240,Kumar Ibrahim,Food Poisoning
+2241,Haziq Ibrahim,Fracture
+2242,Yusuf Teo,Migraine
+2243,Rahul Abdullah,Asthma
+2244,Yusuf Abdullah,Food Poisoning
+2245,Emma Hassan,Food Poisoning
+2246,Nurul Ng,Cut/Laceration
+2247,Yusuf Lim,Food Poisoning
+2248,Hannah Ng,Dehydration
+2249,Nur Tan,Cut/Laceration
+2250,Daniel Razak,Fracture
+2251,Emma Iskandar,Cut/Laceration
+2252,Ahmad Das,Migraine
+2253,Mei Teo,Migraine
+2254,Maya Halim,Asthma
+2255,Irfan Wong,Sprain
+2256,Karim Lim,Dengue Suspected
+2257,Sara Yong,Dehydration
+2258,Omar Goh,Influenza
+2259,Hakim Razak,Fracture
+2260,Ravi Nair,Influenza
+2261,Irfan Razak,Food Poisoning
+2262,Zara Singh,Food Poisoning
+2263,Rina Lim,Sprain
+2264,Ethan Goh,Allergy
+2265,Priya Ong,Asthma
+2266,Rina Farid,Migraine
+2267,Lina Hussein,Cut/Laceration
+2268,Maya Iskandar,Migraine
+2269,Leela Kaur,Dengue Suspected
+2270,Noah Razak,Dehydration
+2271,Nadia Razak,Allergy
+2272,Amir Ibrahim,Influenza
+2273,Nurul Halim,Dengue Suspected
+2274,Hao Sharma,Allergy
+2275,Hakim Kaur,Influenza
+2276,Sofia Hassan,Allergy
+2277,Leela Teo,Sprain
+2278,Adam Mah,Dehydration
+2279,Ali Kaur,Sprain
+2280,Hakim Hassan,Food Poisoning
+2281,Haziq Wong,Cut/Laceration
+2282,Nurul Chan,Allergy
+2283,Noah Yong,Fracture
+2284,Aiman Kaur,Dehydration
+2285,Ravi Rahman,Food Poisoning
+2286,Ava Chan,Fracture
+2287,Alya Krishnan,Sprain
+2288,Amir Goh,Asthma
+2289,Liam Hussein,Asthma
+2290,Ahmad Kumar,Allergy
+2291,Nadia Tan,Sprain
+2292,Ava Ibrahim,Migraine
+2293,Tanya Nair,Influenza
+2294,Karim Singh,Food Poisoning
+2295,Ali Mah,Cut/Laceration
+2296,Sofia Krishnan,Migraine
+2297,Alya Singh,Asthma
+2298,Ravi Chin,Food Poisoning
+2299,Siti Chan,Dehydration
+2300,Liam Abdullah,Asthma
+2301,Ling Tan,Asthma
+2302,Jonah Ng,Allergy
+2303,Ravi Ibrahim,Dehydration
+2304,Haziq Farid,Asthma
+2305,Ahmad Krishnan,Asthma
+2306,Farah Wong,Asthma
+2307,Leela Ng,Influenza
+2308,Farah Lim,Dengue Suspected
+2309,Ali Teo,Food Poisoning
+2310,Lucas Iskandar,Influenza
+2311,Olivia Teo,Food Poisoning
+2312,Nadia Tan,Dehydration
+2313,Haziq Goh,Dehydration
+2314,Ahmad Razak,Sprain
+2315,Mei Chong,Sprain
+2316,Farah Halim,Sprain
+2317,Jia Wong,Influenza
+2318,Ilya Chan,Cut/Laceration
+2319,Wei Hussein,Asthma
+2320,Omar Wong,Dengue Suspected
+2321,Ahmad Abdullah,Asthma
+2322,Daniel Lee,Migraine
+2323,Haziq Lim,Migraine
+2324,Karim Kaur,Food Poisoning
+2325,Sofia Abdullah,Sprain
+2326,Emma Izzah,Influenza
+2327,Ava Tan,Influenza
+2328,Nur Das,Allergy
+2329,Sara Farid,Influenza
+2330,Tanya Hassan,Dehydration
+2331,Noah Kumar,Migraine
+2332,Hannah Rahman,Dehydration
+2333,Priya Ong,Sprain
+2334,Olivia Chong,Dehydration
+2335,Amir Nair,Migraine
+2336,Aiman Iskandar,Allergy
+2337,Yusuf Halim,Cut/Laceration
+2338,Chen Halim,Sprain
+2339,Leela Lee,Influenza
+2340,Jia Kumar,Influenza
+2341,Ilya Goh,Dehydration
+2342,Nurul Nair,Food Poisoning
+2343,Hannah Sharma,Sprain
+2344,Chen Iskandar,Fracture
+2345,Jonah Sharma,Dehydration
+2346,Leela Kumar,Dehydration
+2347,Lina Nair,Sprain
+2348,Yusuf Lim,Dengue Suspected
+2349,Ahmad Iskandar,Dengue Suspected
+2350,Haziq Mah,Asthma
+2351,Priya Singh,Fracture
+2352,Ahmad Tan,Migraine
+2353,Haziq Sharma,Allergy
+2354,Kumar Wong,Food Poisoning
+2355,Hakim Nair,Dengue Suspected
+2356,Jonah Kaur,Migraine
+2357,Jonah Kumar,Influenza
+2358,Ahmad Chin,Cut/Laceration
+2359,Tanya Ong,Sprain
+2360,Mei Yong,Food Poisoning
+2361,Arjun Farid,Food Poisoning
+2362,Ravi Chong,Food Poisoning
+2363,Irfan Razak,Dengue Suspected
+2364,Sara Abdullah,Cut/Laceration
+2365,Ilya Chin,Migraine
+2366,Hakim Chong,Asthma
+2367,Wei Ong,Influenza
+2368,Priya Kaur,Dehydration
+2369,Wei Yong,Dehydration
+2370,Olivia Hassan,Allergy
+2371,Ravi Kaur,Allergy
+2372,Hannah Ng,Asthma
+2373,Zara Halim,Cut/Laceration
+2374,Arjun Singh,Dehydration
+2375,Noah Abdullah,Asthma
+2376,Adam Chin,Food Poisoning
+2377,Hao Hassan,Fracture
+2378,Jonah Mah,Dengue Suspected
+2379,Omar Kumar,Cut/Laceration
+2380,Sofia Lee,Food Poisoning
+2381,Lina Kaur,Sprain
+2382,Ling Abdullah,Dengue Suspected
+2383,Hao Ong,Cut/Laceration
+2384,Irfan Hassan,Allergy
+2385,Olivia Hassan,Food Poisoning
+2386,Priya Wong,Fracture
+2387,Ling Ong,Dengue Suspected
+2388,Hannah Chan,Cut/Laceration
+2389,Hao Lim,Allergy
+2390,Jonah Farid,Asthma
+2391,Ethan Abdullah,Influenza
+2392,Alya Izzah,Allergy
+2393,Adam Yong,Cut/Laceration
+2394,Ahmad Hussein,Food Poisoning
+2395,Kumar Krishnan,Influenza
+2396,Rina Mah,Fracture
+2397,Lina Chin,Cut/Laceration
+2398,Noah Goh,Food Poisoning
+2399,Isabella Hassan,Food Poisoning
+2400,Wei Mah,Migraine
+2401,Leela Ibrahim,Cut/Laceration
+2402,Sara Kumar,Asthma
+2403,Ilya Halim,Asthma
+2404,Hannah Singh,Migraine
+2405,Sara Nair,Asthma
+2406,Haziq Chong,Asthma
+2407,Jonah Sharma,Sprain
+2408,Haziq Rahman,Migraine
+2409,Jia Ng,Cut/Laceration
+2410,Nadia Krishnan,Cut/Laceration
+2411,Irfan Chan,Food Poisoning
+2412,Omar Wong,Migraine
+2413,Rina Iskandar,Dehydration
+2414,Ilya Goh,Influenza
+2415,Wei Ibrahim,Fracture
+2416,Aisyah Lim,Dehydration
+2417,Aiman Nair,Dengue Suspected
+2418,Aisyah Kaur,Cut/Laceration
+2419,Zara Mah,Food Poisoning
+2420,Maya Yong,Allergy
+2421,Haziq Wong,Fracture
+2422,Omar Yong,Allergy
+2423,Ravi Tan,Allergy
+2424,Daniel Ong,Cut/Laceration
+2425,Aisyah Halim,Migraine
+2426,Noah Goh,Allergy
+2427,Lina Krishnan,Migraine
+2428,Hao Farid,Dengue Suspected
+2429,Nadia Singh,Dehydration
+2430,Nur Yong,Influenza
+2431,Isabella Mah,Food Poisoning
+2432,Olivia Sharma,Dengue Suspected
+2433,Aiman Ng,Sprain
+2434,Kumar Ong,Allergy
+2435,Nurul Tan,Asthma
+2436,Nurul Lee,Cut/Laceration
+2437,Nur Farid,Asthma
+2438,Mei Yong,Cut/Laceration
+2439,Nur Nair,Dengue Suspected
+2440,Lucas Ibrahim,Cut/Laceration
+2441,Farah Yong,Dengue Suspected
+2442,Ahmad Yong,Dehydration
+2443,Nur Kumar,Asthma
+2444,Liam Chong,Allergy
+2445,Ravi Singh,Fracture
+2446,Arjun Das,Sprain
+2447,Aiman Krishnan,Asthma
+2448,Irfan Teo,Dengue Suspected
+2449,Noah Kumar,Migraine
+2450,Noah Singh,Food Poisoning
+2451,Ahmad Halim,Cut/Laceration
+2452,Nurul Nair,Food Poisoning
+2453,Isabella Sharma,Migraine
+2454,Wei Tan,Cut/Laceration
+2455,Zara Chan,Migraine
+2456,Ethan Lee,Dengue Suspected
+2457,Jia Chin,Sprain
+2458,Wei Chan,Influenza
+2459,Ravi Das,Cut/Laceration
+2460,Maya Lim,Fracture
+2461,Ava Izzah,Cut/Laceration
+2462,Aiman Ong,Food Poisoning
+2463,Jia Ong,Dengue Suspected
+2464,Adam Lim,Dehydration
+2465,Jia Kumar,Dehydration
+2466,Rina Tan,Sprain
+2467,Sofia Abdullah,Dehydration
+2468,Liam Tan,Migraine
+2469,Nur Lee,Dengue Suspected
+2470,Rahul Chan,Cut/Laceration
+2471,Liam Yong,Dehydration
+2472,Ravi Rahman,Influenza
+2473,Hakim Iskandar,Food Poisoning
+2474,Farah Tan,Food Poisoning
+2475,Ahmad Razak,Asthma
+2476,Farah Chan,Cut/Laceration
+2477,Daniel Ong,Migraine
+2478,Ethan Tan,Allergy
+2479,Priya Teo,Cut/Laceration
+2480,Liam Halim,Influenza
+2481,Sofia Farid,Cut/Laceration
+2482,Lina Halim,Fracture
+2483,Daniel Sharma,Dehydration
+2484,Amir Wong,Allergy
+2485,Omar Lim,Food Poisoning
+2486,Isabella Hussein,Dengue Suspected
+2487,Aisyah Izzah,Migraine
+2488,Ahmad Lee,Dehydration
+2489,Sofia Hussein,Cut/Laceration
+2490,Ethan Kumar,Fracture
+2491,Isabella Abdullah,Allergy
+2492,Tanya Krishnan,Sprain
+2493,Ling Ong,Food Poisoning
+2494,Farid Singh,Migraine
+2495,Lina Kaur,Cut/Laceration
+2496,Rina Mah,Dehydration
+2497,Isabella Das,Migraine
+2498,Hakim Kaur,Sprain
+2499,Aisyah Krishnan,Influenza
+2500,Irfan Hussein,Asthma
+2501,Hannah Razak,Sprain
+2502,Mei Nair,Food Poisoning
+2503,Lina Sharma,Allergy
+2504,Hakim Kumar,Dehydration
+2505,Sara Mah,Dengue Suspected
+2506,Mei Goh,Dehydration
+2507,Ling Chong,Migraine
+2508,Nurul Das,Fracture
+2509,Haziq Ng,Migraine
+2510,Ahmad Das,Dengue Suspected
+2511,Ravi Hassan,Cut/Laceration
+2512,Daniel Hassan,Food Poisoning
+2513,Mei Ng,Dehydration
+2514,Rahul Ong,Allergy
+2515,Sofia Yong,Food Poisoning
+2516,Aisyah Rahman,Food Poisoning
+2517,Aiman Yong,Sprain
+2518,Farah Krishnan,Influenza
+2519,Wei Singh,Sprain
+2520,Olivia Ng,Dehydration
+2521,Hakim Wong,Dehydration
+2522,Sara Singh,Migraine
+2523,Hakim Abdullah,Asthma
+2524,Alya Farid,Fracture
+2525,Karim Wong,Asthma
+2526,Ravi Hussein,Sprain
+2527,Aisyah Razak,Dehydration
+2528,Sara Ng,Migraine
+2529,Nurul Lim,Sprain
+2530,Karim Teo,Fracture
+2531,Leela Chin,Migraine
+2532,Daniel Ong,Fracture
+2533,Rina Das,Sprain
+2534,Olivia Hassan,Dengue Suspected
+2535,Jia Hussein,Fracture
+2536,Aisyah Iskandar,Dengue Suspected
+2537,Tanya Farid,Fracture
+2538,Kumar Hassan,Food Poisoning
+2539,Hannah Hassan,Allergy
+2540,Ava Iskandar,Migraine
+2541,Noah Wong,Fracture
+2542,Ava Halim,Asthma
+2543,Sara Singh,Influenza
+2544,Olivia Krishnan,Dehydration
+2545,Ravi Ng,Fracture
+2546,Daniel Das,Dengue Suspected
+2547,Chen Goh,Dehydration
+2548,Priya Abdullah,Food Poisoning
+2549,Yusuf Halim,Fracture
+2550,Chen Sharma,Allergy
+2551,Alya Chan,Food Poisoning
+2552,Farah Farid,Dehydration
+2553,Maya Chong,Migraine
+2554,Omar Lee,Asthma
+2555,Rahul Goh,Dehydration
+2556,Ethan Tan,Dengue Suspected
+2557,Lina Farid,Dengue Suspected
+2558,Yusuf Hassan,Sprain
+2559,Arjun Sharma,Influenza
+2560,Lucas Ong,Food Poisoning
+2561,Lucas Razak,Dehydration
+2562,Farid Chong,Cut/Laceration
+2563,Noah Wong,Sprain
+2564,Kumar Teo,Asthma
+2565,Haziq Chong,Food Poisoning
+2566,Ling Lim,Dehydration
+2567,Noah Ibrahim,Allergy
+2568,Rahul Wong,Dehydration
+2569,Liam Goh,Dehydration
+2570,Hao Krishnan,Asthma
+2571,Rahul Chin,Sprain
+2572,Ethan Ong,Allergy
+2573,Aiman Teo,Migraine
+2574,Farah Izzah,Cut/Laceration
+2575,Aisyah Kaur,Food Poisoning
+2576,Aisyah Sharma,Fracture
+2577,Leela Ibrahim,Sprain
+2578,Aiman Wong,Food Poisoning
+2579,Haziq Ong,Asthma
+2580,Priya Razak,Influenza
+2581,Farid Mah,Fracture
+2582,Omar Sharma,Influenza
+2583,Yusuf Nair,Allergy
+2584,Daniel Hussein,Influenza
+2585,Maya Hussein,Dehydration
+2586,Nur Ong,Food Poisoning
+2587,Yusuf Mah,Asthma
+2588,Kumar Iskandar,Asthma
+2589,Ravi Lim,Dengue Suspected
+2590,Maya Sharma,Cut/Laceration
+2591,Chen Hussein,Food Poisoning
+2592,Amir Razak,Migraine
+2593,Ravi Izzah,Food Poisoning
+2594,Aisyah Teo,Dehydration
+2595,Siti Yong,Sprain
+2596,Kumar Hassan,Allergy
+2597,Omar Rahman,Sprain
+2598,Priya Rahman,Allergy
+2599,Rahul Sharma,Allergy
+2600,Karim Teo,Dehydration
+2601,Haziq Lim,Sprain
+2602,Zara Chan,Migraine
+2603,Yusuf Hassan,Allergy
+2604,Amir Farid,Sprain
+2605,Yusuf Krishnan,Sprain
+2606,Ravi Lim,Asthma
+2607,Olivia Izzah,Asthma
+2608,Nur Hussein,Allergy
+2609,Hao Lee,Dengue Suspected
+2610,Aisyah Nair,Food Poisoning
+2611,Hao Ong,Cut/Laceration
+2612,Alya Tan,Dehydration
+2613,Ethan Ng,Influenza
+2614,Hannah Abdullah,Asthma
+2615,Aiman Lim,Food Poisoning
+2616,Hao Hassan,Fracture
+2617,Leela Krishnan,Dehydration
+2618,Ethan Krishnan,Cut/Laceration
+2619,Hao Ibrahim,Cut/Laceration
+2620,Tanya Ibrahim,Food Poisoning
+2621,Aisyah Tan,Influenza
+2622,Omar Goh,Sprain
+2623,Adam Razak,Cut/Laceration
+2624,Amir Wong,Food Poisoning
+2625,Nur Sharma,Cut/Laceration
+2626,Mei Yong,Sprain
+2627,Amir Abdullah,Allergy
+2628,Ilya Ong,Sprain
+2629,Farah Ibrahim,Asthma
+2630,Alya Ng,Dengue Suspected
+2631,Irfan Teo,Food Poisoning
+2632,Nadia Tan,Fracture
+2633,Rahul Mah,Sprain
+2634,Ava Ong,Sprain
+2635,Yusuf Chong,Fracture
+2636,Aiman Ibrahim,Allergy
+2637,Farid Mah,Migraine
+2638,Leela Lim,Dengue Suspected
+2639,Nurul Chan,Migraine
+2640,Hao Abdullah,Cut/Laceration
+2641,Yusuf Sharma,Dengue Suspected
+2642,Rahul Kumar,Dehydration
+2643,Hao Nair,Asthma
+2644,Olivia Wong,Influenza
+2645,Rahul Nair,Asthma
+2646,Amir Izzah,Migraine
+2647,Nur Farid,Food Poisoning
+2648,Priya Nair,Asthma
+2649,Hao Halim,Asthma
+2650,Lucas Ong,Migraine
+2651,Nadia Nair,Cut/Laceration
+2652,Nur Chong,Dehydration
+2653,Isabella Halim,Dengue Suspected
+2654,Ethan Sharma,Fracture
+2655,Jonah Kumar,Migraine
+2656,Lucas Kumar,Dengue Suspected
+2657,Farah Farid,Allergy
+2658,Farid Hassan,Sprain
+2659,Yusuf Kaur,Influenza
+2660,Farid Lim,Allergy
+2661,Emma Chan,Fracture
+2662,Amir Nair,Sprain
+2663,Maya Goh,Allergy
+2664,Ravi Abdullah,Food Poisoning
+2665,Aiman Mah,Fracture
+2666,Kumar Chan,Migraine
+2667,Jonah Wong,Asthma
+2668,Aisyah Ong,Dengue Suspected
+2669,Daniel Chin,Allergy
+2670,Rahul Ong,Migraine
+2671,Emma Kaur,Sprain
+2672,Haziq Farid,Food Poisoning
+2673,Hakim Rahman,Cut/Laceration
+2674,Aiman Tan,Asthma
+2675,Omar Razak,Food Poisoning
+2676,Chen Farid,Food Poisoning
+2677,Adam Nair,Cut/Laceration
+2678,Mei Hassan,Influenza
+2679,Omar Hassan,Dengue Suspected
+2680,Lina Iskandar,Food Poisoning
+2681,Hannah Hassan,Cut/Laceration
+2682,Hakim Iskandar,Cut/Laceration
+2683,Yusuf Sharma,Fracture
+2684,Olivia Sharma,Influenza
+2685,Zara Yong,Dengue Suspected
+2686,Sara Iskandar,Influenza
+2687,Daniel Hassan,Dehydration
+2688,Ling Lim,Asthma
+2689,Nadia Hussein,Food Poisoning
+2690,Priya Hussein,Asthma
+2691,Aisyah Ng,Sprain
+2692,Ravi Rahman,Dengue Suspected
+2693,Jonah Mah,Influenza
+2694,Lucas Nair,Sprain
+2695,Rahul Yong,Cut/Laceration
+2696,Tanya Teo,Influenza
+2697,Lina Ong,Dengue Suspected
+2698,Ling Tan,Dengue Suspected
+2699,Arjun Tan,Allergy
+2700,Zara Kumar,Asthma
+2701,Tanya Razak,Dengue Suspected
+2702,Nur Iskandar,Asthma
+2703,Haziq Abdullah,Allergy
+2704,Siti Teo,Fracture
+2705,Jia Ong,Dengue Suspected
+2706,Hao Kumar,Food Poisoning
+2707,Arjun Goh,Allergy
+2708,Irfan Ibrahim,Migraine
+2709,Amir Ng,Sprain
+2710,Jonah Lim,Dehydration
+2711,Nurul Ibrahim,Sprain
+2712,Lina Ong,Dengue Suspected
+2713,Haziq Singh,Cut/Laceration
+2714,Wei Razak,Sprain
+2715,Adam Teo,Allergy
+2716,Ahmad Sharma,Influenza
+2717,Rina Sharma,Migraine
+2718,Isabella Kumar,Influenza
+2719,Jia Goh,Fracture
+2720,Alya Lee,Influenza
+2721,Aisyah Kaur,Migraine
+2722,Lina Chin,Migraine
+2723,Nadia Goh,Fracture
+2724,Liam Farid,Asthma
+2725,Hakim Kumar,Dengue Suspected
+2726,Adam Lee,Dengue Suspected
+2727,Ali Kaur,Dehydration
+2728,Siti Chin,Asthma
+2729,Yusuf Krishnan,Migraine
+2730,Adam Lim,Allergy
+2731,Olivia Chong,Dehydration
+2732,Siti Kaur,Fracture
+2733,Liam Teo,Asthma
+2734,Hannah Chin,Allergy
+2735,Yusuf Kumar,Sprain
+2736,Tanya Nair,Influenza
+2737,Irfan Lee,Fracture
+2738,Arjun Abdullah,Cut/Laceration
+2739,Farid Lee,Food Poisoning
+2740,Omar Das,Food Poisoning
+2741,Ilya Nair,Migraine
+2742,Rina Iskandar,Dengue Suspected
+2743,Lina Mah,Dengue Suspected
+2744,Ilya Krishnan,Influenza
+2745,Ethan Mah,Dengue Suspected
+2746,Haziq Kumar,Sprain
+2747,Ethan Izzah,Allergy
+2748,Ilya Izzah,Food Poisoning
+2749,Sofia Nair,Food Poisoning
+2750,Hakim Hussein,Dengue Suspected
+2751,Chen Rahman,Allergy
+2752,Ling Abdullah,Asthma
+2753,Liam Goh,Sprain
+2754,Hannah Kumar,Asthma
+2755,Nur Wong,Allergy
+2756,Noah Razak,Dengue Suspected
+2757,Nurul Teo,Dehydration
+2758,Maya Iskandar,Sprain
+2759,Sofia Chin,Cut/Laceration
+2760,Priya Mah,Sprain
+2761,Haziq Ong,Fracture
+2762,Wei Hussein,Food Poisoning
+2763,Daniel Hussein,Food Poisoning
+2764,Chen Sharma,Cut/Laceration
+2765,Ali Ng,Asthma
+2766,Farid Mah,Allergy
+2767,Ling Halim,Asthma
+2768,Maya Izzah,Dehydration
+2769,Lina Razak,Influenza
+2770,Hakim Hassan,Influenza
+2771,Arjun Krishnan,Food Poisoning
+2772,Priya Lim,Sprain
+2773,Aisyah Ong,Dehydration
+2774,Zara Nair,Sprain
+2775,Jia Hussein,Food Poisoning
+2776,Farid Ibrahim,Dehydration
+2777,Sara Yong,Fracture
+2778,Ali Das,Sprain
+2779,Rahul Yong,Asthma
+2780,Noah Rahman,Cut/Laceration
+2781,Arjun Krishnan,Migraine
+2782,Jia Hussein,Dengue Suspected
+2783,Amir Chan,Asthma
+2784,Haziq Yong,Fracture
+2785,Lina Tan,Fracture
+2786,Ravi Kumar,Cut/Laceration
+2787,Liam Ng,Sprain
+2788,Tanya Ng,Fracture
+2789,Lucas Farid,Sprain
+2790,Tanya Chin,Sprain
+2791,Wei Hassan,Influenza
+2792,Isabella Halim,Cut/Laceration
+2793,Ali Chan,Fracture
+2794,Daniel Farid,Influenza
+2795,Zara Kaur,Influenza
+2796,Hakim Teo,Migraine
+2797,Rina Tan,Allergy
+2798,Farah Tan,Asthma
+2799,Jia Hussein,Allergy
+2800,Lucas Izzah,Influenza
+2801,Jia Das,Dengue Suspected
+2802,Sofia Iskandar,Dehydration
+2803,Maya Halim,Cut/Laceration
+2804,Rina Kaur,Food Poisoning
+2805,Farid Das,Cut/Laceration
+2806,Irfan Farid,Allergy
+2807,Yusuf Iskandar,Sprain
+2808,Nurul Farid,Food Poisoning
+2809,Arjun Mah,Dehydration
+2810,Alya Goh,Fracture
+2811,Rina Chong,Dengue Suspected
+2812,Aisyah Lee,Food Poisoning
+2813,Irfan Hassan,Dehydration
+2814,Hannah Sharma,Cut/Laceration
+2815,Irfan Goh,Food Poisoning
+2816,Kumar Hussein,Food Poisoning
+2817,Omar Ong,Migraine
+2818,Rahul Halim,Food Poisoning
+2819,Ilya Nair,Dehydration
+2820,Aiman Sharma,Cut/Laceration
+2821,Ethan Ibrahim,Dehydration
+2822,Ling Hussein,Allergy
+2823,Tanya Chan,Cut/Laceration
+2824,Leela Krishnan,Dengue Suspected
+2825,Zara Farid,Influenza
+2826,Priya Sharma,Dengue Suspected
+2827,Lina Kumar,Dengue Suspected
+2828,Liam Iskandar,Sprain
+2829,Ali Hussein,Dengue Suspected
+2830,Rahul Chan,Cut/Laceration
+2831,Siti Halim,Influenza
+2832,Nurul Hassan,Migraine
+2833,Tanya Hussein,Influenza
+2834,Haziq Hassan,Influenza
+2835,Chen Lim,Cut/Laceration
+2836,Ali Hassan,Allergy
+2837,Ethan Rahman,Migraine
+2838,Maya Ibrahim,Food Poisoning
+2839,Jonah Tan,Cut/Laceration
+2840,Ali Ng,Cut/Laceration
+2841,Rahul Hassan,Allergy
+2842,Ali Farid,Asthma
+2843,Hannah Singh,Influenza
+2844,Zara Farid,Migraine
+2845,Priya Nair,Dehydration
+2846,Leela Abdullah,Dehydration
+2847,Noah Halim,Allergy
+2848,Ahmad Yong,Cut/Laceration
+2849,Jia Kumar,Sprain
+2850,Aisyah Chin,Migraine
+2851,Noah Teo,Food Poisoning
+2852,Hannah Kaur,Influenza
+2853,Zara Abdullah,Fracture
+2854,Kumar Rahman,Fracture
+2855,Emma Izzah,Fracture
+2856,Hao Kaur,Dehydration
+2857,Emma Farid,Cut/Laceration
+2858,Siti Singh,Influenza
+2859,Rahul Lee,Asthma
+2860,Jonah Wong,Allergy
+2861,Daniel Goh,Dengue Suspected
+2862,Nadia Izzah,Asthma
+2863,Arjun Sharma,Influenza
+2864,Rahul Lim,Dehydration
+2865,Jia Razak,Influenza
+2866,Jonah Farid,Dehydration
+2867,Hakim Chan,Influenza
+2868,Wei Das,Influenza
+2869,Noah Halim,Migraine
+2870,Leela Chan,Dengue Suspected
+2871,Irfan Mah,Influenza
+2872,Yusuf Wong,Food Poisoning
+2873,Ali Teo,Cut/Laceration
+2874,Wei Chong,Asthma
+2875,Maya Mah,Dehydration
+2876,Chen Lee,Food Poisoning
+2877,Sara Ong,Sprain
+2878,Daniel Razak,Sprain
+2879,Daniel Halim,Dehydration
+2880,Nadia Nair,Food Poisoning
+2881,Irfan Ng,Asthma
+2882,Nurul Lee,Fracture
+2883,Chen Lim,Dehydration
+2884,Aisyah Mah,Cut/Laceration
+2885,Farah Hassan,Dehydration
+2886,Chen Razak,Food Poisoning
+2887,Chen Das,Fracture
+2888,Lucas Goh,Allergy
+2889,Ava Nair,Influenza
+2890,Ali Krishnan,Cut/Laceration
+2891,Maya Kumar,Cut/Laceration
+2892,Ethan Rahman,Dehydration
+2893,Lina Nair,Asthma
+2894,Aisyah Lee,Food Poisoning
+2895,Tanya Iskandar,Food Poisoning
+2896,Haziq Mah,Allergy
+2897,Haziq Hassan,Fracture
+2898,Noah Singh,Influenza
+2899,Ethan Chan,Influenza
+2900,Chen Kaur,Migraine
+2901,Chen Mah,Allergy
+2902,Ethan Halim,Allergy
+2903,Kumar Ibrahim,Migraine
+2904,Priya Nair,Allergy
+2905,Farah Hussein,Allergy
+2906,Maya Chan,Dengue Suspected
+2907,Siti Singh,Food Poisoning
+2908,Liam Tan,Cut/Laceration
+2909,Haziq Ibrahim,Fracture
+2910,Isabella Wong,Influenza
+2911,Sofia Izzah,Dengue Suspected
+2912,Daniel Mah,Cut/Laceration
+2913,Aiman Ng,Influenza
+2914,Irfan Iskandar,Food Poisoning
+2915,Ethan Teo,Dengue Suspected
+2916,Irfan Lee,Migraine
+2917,Nur Hassan,Allergy
+2918,Nur Ng,Dengue Suspected
+2919,Mei Yong,Dehydration
+2920,Nadia Abdullah,Food Poisoning
+2921,Omar Farid,Fracture
+2922,Amir Chan,Cut/Laceration
+2923,Yusuf Das,Allergy
+2924,Jonah Rahman,Sprain
+2925,Liam Chong,Sprain
+2926,Isabella Kaur,Cut/Laceration
+2927,Hao Farid,Food Poisoning
+2928,Nur Chan,Allergy
+2929,Kumar Ng,Sprain
+2930,Jonah Ong,Food Poisoning
+2931,Rahul Singh,Migraine
+2932,Ava Teo,Cut/Laceration
+2933,Isabella Ong,Food Poisoning
+2934,Kumar Kaur,Asthma
+2935,Arjun Abdullah,Dengue Suspected
+2936,Mei Chan,Fracture
+2937,Karim Lee,Sprain
+2938,Mei Hassan,Sprain
+2939,Ilya Kaur,Dehydration
+2940,Jonah Kumar,Allergy
+2941,Rahul Sharma,Dengue Suspected
+2942,Zara Ong,Asthma
+2943,Alya Hussein,Allergy
+2944,Mei Halim,Food Poisoning
+2945,Hao Ibrahim,Fracture
+2946,Hakim Rahman,Fracture
+2947,Jonah Wong,Asthma
+2948,Liam Yong,Influenza
+2949,Irfan Chan,Dehydration
+2950,Mei Krishnan,Influenza
+2951,Priya Hussein,Cut/Laceration
+2952,Isabella Sharma,Allergy
+2953,Hannah Tan,Food Poisoning
+2954,Daniel Ong,Fracture
+2955,Ahmad Razak,Allergy
+2956,Hakim Razak,Dengue Suspected
+2957,Karim Chin,Cut/Laceration
+2958,Isabella Razak,Allergy
+2959,Priya Kaur,Asthma
+2960,Tanya Kumar,Fracture
+2961,Tanya Kumar,Fracture
+2962,Yusuf Ibrahim,Cut/Laceration
+2963,Siti Ng,Cut/Laceration
+2964,Emma Chan,Allergy
+2965,Omar Ng,Dengue Suspected
+2966,Mei Sharma,Cut/Laceration
+2967,Maya Kaur,Sprain
+2968,Siti Tan,Migraine
+2969,Omar Kaur,Allergy
+2970,Amir Farid,Migraine
+2971,Yusuf Sharma,Sprain
+2972,Kumar Iskandar,Cut/Laceration
+2973,Jia Razak,Asthma
+2974,Emma Chong,Food Poisoning
+2975,Ilya Hussein,Influenza
+2976,Ravi Ibrahim,Cut/Laceration
+2977,Ravi Kaur,Food Poisoning
+2978,Adam Ong,Allergy
+2979,Ethan Ibrahim,Dehydration
+2980,Jonah Chin,Allergy
+2981,Ava Kumar,Dehydration
+2982,Hannah Kumar,Influenza
+2983,Lina Ibrahim,Fracture
+2984,Hannah Goh,Allergy
+2985,Jonah Chan,Cut/Laceration
+2986,Sara Hassan,Sprain
+2987,Siti Kaur,Dengue Suspected
+2988,Yusuf Rahman,Fracture
+2989,Lina Hussein,Allergy
+2990,Nur Ng,Fracture
+2991,Hakim Ibrahim,Sprain
+2992,Hao Kaur,Influenza
+2993,Noah Krishnan,Asthma
+2994,Wei Goh,Food Poisoning
+2995,Sofia Mah,Dehydration
+2996,Hao Tan,Fracture
+2997,Amir Lim,Sprain
+2998,Alya Halim,Dengue Suspected
+2999,Leela Yong,Allergy
+3000,Isabella Krishnan,Cut/Laceration
+3001,Lucas Ibrahim,Migraine
+3002,Isabella Nair,Migraine
+3003,Ling Kaur,Migraine
+3004,Daniel Wong,Dengue Suspected
+3005,Irfan Kumar,Fracture
+3006,Sofia Yong,Asthma
+3007,Daniel Hassan,Allergy
+3008,Tanya Kumar,Migraine
+3009,Noah Lim,Dehydration
+3010,Rahul Wong,Influenza
+3011,Leela Farid,Fracture
+3012,Rina Lee,Asthma
+3013,Sara Ibrahim,Cut/Laceration
+3014,Nurul Iskandar,Cut/Laceration
+3015,Aisyah Mah,Dehydration
+3016,Lina Das,Food Poisoning
+3017,Zara Hussein,Migraine
+3018,Nurul Halim,Migraine
+3019,Rina Kumar,Cut/Laceration
+3020,Irfan Chong,Cut/Laceration
+3021,Aiman Goh,Migraine
+3022,Sara Mah,Food Poisoning
+3023,Rina Tan,Fracture
+3024,Jonah Chin,Allergy
+3025,Ilya Farid,Allergy
+3026,Maya Chin,Influenza
+3027,Kumar Razak,Dehydration
+3028,Ahmad Nair,Influenza
+3029,Zara Ibrahim,Fracture
+3030,Kumar Chong,Allergy
+3031,Ling Das,Sprain
+3032,Aisyah Chong,Fracture
+3033,Ling Kaur,Dengue Suspected
+3034,Hannah Krishnan,Migraine
+3035,Lina Wong,Dengue Suspected
+3036,Kumar Krishnan,Fracture
+3037,Ali Nair,Asthma
+3038,Nadia Nair,Dehydration
+3039,Emma Chin,Asthma
+3040,Rahul Hussein,Dengue Suspected
+3041,Emma Chan,Dehydration
+3042,Daniel Goh,Asthma
+3043,Ali Chan,Cut/Laceration
+3044,Isabella Rahman,Fracture
+3045,Hannah Chong,Allergy
+3046,Omar Ong,Dengue Suspected
+3047,Maya Ng,Asthma
+3048,Ava Razak,Dehydration
+3049,Hao Wong,Sprain
+3050,Yusuf Chong,Sprain
+3051,Amir Razak,Dengue Suspected
+3052,Aisyah Ibrahim,Sprain
+3053,Nur Abdullah,Fracture
+3054,Yusuf Izzah,Dengue Suspected
+3055,Nurul Kaur,Dehydration
+3056,Zara Rahman,Fracture
+3057,Emma Nair,Allergy
+3058,Hao Ng,Fracture
+3059,Siti Chan,Sprain
+3060,Sofia Abdullah,Allergy
+3061,Tanya Hussein,Sprain
+3062,Yusuf Kaur,Dehydration
+3063,Hannah Hassan,Dengue Suspected
+3064,Alya Chong,Dengue Suspected
+3065,Tanya Sharma,Allergy
+3066,Rahul Lim,Dehydration
+3067,Zara Razak,Allergy
+3068,Amir Iskandar,Food Poisoning
+3069,Ravi Hussein,Cut/Laceration
+3070,Olivia Chin,Sprain
+3071,Jonah Sharma,Dengue Suspected
+3072,Sara Ng,Cut/Laceration
+3073,Sara Nair,Influenza
+3074,Tanya Ng,Asthma
+3075,Rahul Nair,Food Poisoning
+3076,Ali Hassan,Migraine
+3077,Wei Lee,Dengue Suspected
+3078,Priya Ong,Cut/Laceration
+3079,Amir Chong,Asthma
+3080,Tanya Halim,Dehydration
+3081,Nurul Yong,Sprain
+3082,Maya Tan,Dehydration
+3083,Haziq Kumar,Food Poisoning
+3084,Isabella Teo,Cut/Laceration
+3085,Kumar Goh,Cut/Laceration
+3086,Ava Halim,Dengue Suspected
+3087,Isabella Sharma,Sprain
+3088,Noah Kaur,Cut/Laceration
+3089,Ali Hussein,Dengue Suspected
+3090,Ava Farid,Asthma
+3091,Zara Tan,Allergy
+3092,Amir Hussein,Dehydration
+3093,Noah Ibrahim,Allergy
+3094,Omar Mah,Fracture
+3095,Isabella Razak,Migraine
+3096,Haziq Singh,Sprain
+3097,Rina Halim,Food Poisoning
+3098,Noah Ng,Asthma
+3099,Chen Tan,Fracture
+3100,Maya Kaur,Food Poisoning
+3101,Alya Iskandar,Fracture
+3102,Siti Hassan,Fracture
+3103,Jia Rahman,Food Poisoning
+3104,Leela Farid,Food Poisoning
+3105,Ling Lee,Allergy
+3106,Tanya Razak,Sprain
+3107,Isabella Krishnan,Cut/Laceration
+3108,Alya Ng,Dengue Suspected
+3109,Rahul Hussein,Sprain
+3110,Ling Hassan,Fracture
+3111,Aiman Razak,Sprain
+3112,Wei Lim,Cut/Laceration
+3113,Rahul Mah,Food Poisoning
+3114,Jia Ong,Migraine
+3115,Mei Ibrahim,Food Poisoning
+3116,Rina Ibrahim,Cut/Laceration
+3117,Rahul Das,Allergy
+3118,Hakim Iskandar,Asthma
+3119,Jia Kaur,Food Poisoning
+3120,Hakim Hussein,Allergy
+3121,Alya Razak,Asthma
+3122,Lucas Mah,Fracture
+3123,Ilya Razak,Sprain
+3124,Amir Ng,Dehydration
+3125,Karim Tan,Asthma
+3126,Lucas Halim,Cut/Laceration
+3127,Aisyah Nair,Migraine
+3128,Alya Kaur,Fracture
+3129,Lina Teo,Food Poisoning
+3130,Wei Abdullah,Sprain
+3131,Tanya Abdullah,Influenza
+3132,Yusuf Krishnan,Cut/Laceration
+3133,Sara Lim,Asthma
+3134,Emma Lim,Allergy
+3135,Hakim Chan,Dengue Suspected
+3136,Kumar Halim,Sprain
+3137,Jonah Mah,Dehydration
+3138,Amir Das,Sprain
+3139,Isabella Chan,Dengue Suspected
+3140,Nadia Hassan,Dengue Suspected
+3141,Rina Ong,Dengue Suspected
+3142,Amir Abdullah,Cut/Laceration
+3143,Ava Chin,Dehydration
+3144,Rahul Ng,Sprain
+3145,Omar Hussein,Cut/Laceration
+3146,Daniel Goh,Dengue Suspected
+3147,Zara Chong,Asthma
+3148,Leela Sharma,Allergy
+3149,Farid Nair,Food Poisoning
+3150,Olivia Ng,Dengue Suspected
+3151,Leela Mah,Sprain
+3152,Aisyah Das,Cut/Laceration
+3153,Nurul Hassan,Migraine
+3154,Daniel Rahman,Dengue Suspected
+3155,Aisyah Lee,Influenza
+3156,Isabella Nair,Dehydration
+3157,Jonah Singh,Migraine
+3158,Maya Tan,Food Poisoning
+3159,Farid Abdullah,Influenza
+3160,Adam Ibrahim,Dengue Suspected
+3161,Ling Sharma,Influenza
+3162,Ava Chin,Food Poisoning
+3163,Ali Chan,Food Poisoning
+3164,Daniel Kaur,Dehydration
+3165,Ilya Ong,Influenza
+3166,Ravi Lee,Cut/Laceration
+3167,Rahul Goh,Cut/Laceration
+3168,Kumar Abdullah,Influenza
+3169,Priya Teo,Cut/Laceration
+3170,Maya Lim,Allergy
+3171,Haziq Krishnan,Asthma
+3172,Aisyah Chin,Fracture
+3173,Haziq Farid,Influenza
+3174,Mei Farid,Cut/Laceration
+3175,Ethan Lim,Fracture
+3176,Rahul Hassan,Dehydration
+3177,Liam Abdullah,Dehydration
+3178,Liam Ibrahim,Sprain
+3179,Amir Sharma,Dengue Suspected
+3180,Rahul Chin,Sprain
+3181,Jonah Singh,Influenza
+3182,Hakim Singh,Food Poisoning
+3183,Kumar Krishnan,Influenza
+3184,Ava Farid,Migraine
+3185,Nadia Yong,Food Poisoning
+3186,Wei Wong,Dengue Suspected
+3187,Farah Hassan,Migraine
+3188,Olivia Kumar,Dehydration
+3189,Ilya Razak,Food Poisoning
+3190,Aisyah Razak,Fracture
+3191,Ava Lim,Food Poisoning
+3192,Rina Goh,Asthma
+3193,Ahmad Lim,Sprain
+3194,Ravi Farid,Fracture
+3195,Amir Razak,Allergy
+3196,Siti Lim,Sprain
+3197,Liam Tan,Dengue Suspected
+3198,Ethan Mah,Dehydration
+3199,Chen Yong,Food Poisoning

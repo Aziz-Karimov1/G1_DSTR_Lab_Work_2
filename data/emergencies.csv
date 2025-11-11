@@ -1,0 +1,1201 @@
+patientName,emergencyType,priority
+Yusuf Singh,Severe Trauma,4
+Lina Izzah,Respiratory Failure,1
+Ahmad Ng,Multiple Fractures,5
+Arjun Mah,Internal Bleeding,4
+Ravi Lee,Internal Bleeding,1
+Haziq Hussein,Respiratory Failure,3
+Ravi Ng,Internal Bleeding,5
+Zara Ng,Respiratory Failure,3
+Jia Wong,Severe Trauma,3
+Arjun Das,Head Injury,5
+Mei Yong,Severe Trauma,4
+Lina Chan,Seizure,3
+Farid Krishnan,Stroke,3
+Yusuf Wong,Anaphylaxis,5
+Omar Kumar,Internal Bleeding,4
+Ravi Ibrahim,Cardiac Arrest,2
+Olivia Chong,Burns,3
+Irfan Goh,Burns,4
+Alya Farid,Internal Bleeding,1
+Hao Halim,Seizure,4
+Aiman Nair,Seizure,1
+Ravi Razak,Head Injury,2
+Isabella Mah,Seizure,5
+Priya Hussein,Anaphylaxis,3
+Mei Wong,Stroke,1
+Ilya Mah,Stroke,1
+Aiman Izzah,Seizure,5
+Lina Ibrahim,Head Injury,3
+Karim Lee,Stroke,5
+Lucas Iskandar,Respiratory Failure,5
+Hakim Izzah,Severe Trauma,1
+Jia Ong,Cardiac Arrest,3
+Isabella Krishnan,Stroke,5
+Hannah Ng,Seizure,3
+Kumar Chin,Severe Trauma,2
+Adam Teo,Cardiac Arrest,5
+Wei Hussein,Respiratory Failure,1
+Noah Kumar,Anaphylaxis,2
+Ling Kumar,Multiple Fractures,2
+Alya Razak,Respiratory Failure,5
+Rina Singh,Severe Trauma,4
+Ava Ibrahim,Seizure,3
+Alya Lee,Cardiac Arrest,3
+Hao Kumar,Head Injury,4
+Ethan Kumar,Head Injury,1
+Ava Goh,Multiple Fractures,1
+Farid Chin,Seizure,1
+Maya Hussein,Burns,1
+Mei Ng,Cardiac Arrest,1
+Hao Yong,Burns,1
+Nur Chong,Stroke,3
+Mei Singh,Burns,2
+Sara Kumar,Cardiac Arrest,5
+Omar Razak,Stroke,3
+Olivia Tan,Burns,3
+Amir Nair,Internal Bleeding,2
+Sara Wong,Anaphylaxis,5
+Mei Sharma,Multiple Fractures,3
+Aiman Kumar,Internal Bleeding,1
+Priya Mah,Burns,4
+Rina Krishnan,Internal Bleeding,2
+Ava Ng,Severe Trauma,1
+Ahmad Goh,Severe Trauma,3
+Ravi Singh,Head Injury,2
+Ilya Chan,Internal Bleeding,4
+Adam Chan,Burns,1
+Hao Lee,Respiratory Failure,1
+Farid Tan,Respiratory Failure,3
+Emma Chan,Stroke,2
+Nur Abdullah,Respiratory Failure,5
+Yusuf Izzah,Multiple Fractures,4
+Jia Farid,Burns,4
+Sofia Rahman,Head Injury,1
+Rahul Hassan,Cardiac Arrest,5
+Alya Nair,Respiratory Failure,3
+Ling Farid,Seizure,2
+Hao Farid,Respiratory Failure,5
+Aisyah Kaur,Head Injury,1
+Ilya Kumar,Cardiac Arrest,3
+Nurul Abdullah,Internal Bleeding,1
+Priya Teo,Cardiac Arrest,3
+Alya Hassan,Internal Bleeding,3
+Ilya Wong,Burns,5
+Jonah Singh,Respiratory Failure,3
+Farah Tan,Multiple Fractures,2
+Farid Izzah,Burns,4
+Lucas Chong,Stroke,4
+Kumar Goh,Head Injury,1
+Isabella Halim,Stroke,5
+Adam Abdullah,Burns,1
+Isabella Chong,Stroke,2
+Chen Das,Burns,4
+Rina Chong,Anaphylaxis,1
+Jonah Sharma,Burns,5
+Noah Hussein,Head Injury,2
+Ilya Lee,Cardiac Arrest,4
+Chen Rahman,Multiple Fractures,2
+Yusuf Lee,Multiple Fractures,1
+Daniel Kumar,Burns,1
+Isabella Goh,Internal Bleeding,2
+Sara Wong,Head Injury,3
+Chen Krishnan,Multiple Fractures,1
+Ali Sharma,Anaphylaxis,2
+Isabella Wong,Seizure,5
+Nadia Yong,Head Injury,2
+Chen Lee,Internal Bleeding,1
+Arjun Lee,Anaphylaxis,5
+Adam Wong,Internal Bleeding,4
+Jia Abdullah,Head Injury,2
+Emma Mah,Stroke,2
+Mei Ong,Anaphylaxis,1
+Chen Teo,Stroke,1
+Karim Halim,Respiratory Failure,5
+Hannah Wong,Burns,2
+Adam Ibrahim,Burns,3
+Yusuf Mah,Respiratory Failure,2
+Irfan Abdullah,Severe Trauma,4
+Sofia Goh,Respiratory Failure,1
+Priya Yong,Multiple Fractures,4
+Maya Lim,Severe Trauma,5
+Sara Chong,Seizure,3
+Lucas Nair,Anaphylaxis,1
+Maya Krishnan,Seizure,5
+Yusuf Wong,Respiratory Failure,3
+Noah Ng,Internal Bleeding,5
+Emma Krishnan,Internal Bleeding,4
+Daniel Tan,Multiple Fractures,5
+Ravi Singh,Anaphylaxis,4
+Rahul Chan,Internal Bleeding,4
+Ava Chan,Cardiac Arrest,2
+Emma Hassan,Anaphylaxis,5
+Nur Iskandar,Anaphylaxis,2
+Hannah Lim,Stroke,5
+Rahul Chin,Head Injury,3
+Wei Razak,Severe Trauma,3
+Mei Razak,Multiple Fractures,1
+Hao Ng,Cardiac Arrest,3
+Amir Hassan,Burns,1
+Irfan Wong,Cardiac Arrest,4
+Yusuf Yong,Severe Trauma,2
+Olivia Wong,Severe Trauma,5
+Mei Mah,Severe Trauma,2
+Nurul Lee,Burns,4
+Hannah Teo,Cardiac Arrest,4
+Amir Krishnan,Internal Bleeding,1
+Arjun Izzah,Head Injury,4
+Alya Yong,Cardiac Arrest,5
+Arjun Yong,Cardiac Arrest,5
+Rahul Kaur,Anaphylaxis,5
+Jonah Lim,Seizure,1
+Sofia Lim,Cardiac Arrest,3
+Yusuf Teo,Internal Bleeding,4
+Zara Sharma,Anaphylaxis,5
+Wei Kumar,Stroke,1
+Siti Wong,Seizure,2
+Lina Chin,Head Injury,1
+Siti Lee,Internal Bleeding,5
+Ahmad Yong,Respiratory Failure,4
+Hannah Ong,Severe Trauma,1
+Priya Rahman,Cardiac Arrest,5
+Hannah Hassan,Head Injury,1
+Liam Abdullah,Seizure,5
+Karim Mah,Anaphylaxis,1
+Kumar Nair,Severe Trauma,4
+Kumar Chin,Multiple Fractures,2
+Jonah Goh,Respiratory Failure,5
+Hao Tan,Cardiac Arrest,5
+Noah Chong,Internal Bleeding,4
+Jia Ibrahim,Internal Bleeding,1
+Siti Sharma,Internal Bleeding,5
+Nurul Iskandar,Anaphylaxis,5
+Lucas Ibrahim,Seizure,4
+Chen Abdullah,Head Injury,2
+Emma Das,Multiple Fractures,4
+Farah Rahman,Seizure,2
+Olivia Mah,Burns,1
+Yusuf Singh,Seizure,1
+Siti Izzah,Respiratory Failure,3
+Hao Sharma,Multiple Fractures,4
+Hakim Lim,Stroke,1
+Nur Chan,Burns,4
+Alya Sharma,Seizure,4
+Sofia Rahman,Multiple Fractures,4
+Adam Abdullah,Seizure,3
+Ling Chin,Internal Bleeding,1
+Daniel Iskandar,Respiratory Failure,2
+Ava Kumar,Head Injury,2
+Sara Razak,Head Injury,1
+Hakim Iskandar,Anaphylaxis,1
+Chen Rahman,Severe Trauma,2
+Ravi Chin,Seizure,3
+Isabella Abdullah,Respiratory Failure,1
+Ling Sharma,Burns,3
+Jonah Goh,Seizure,2
+Isabella Izzah,Seizure,2
+Hakim Hassan,Head Injury,4
+Ali Ibrahim,Anaphylaxis,3
+Jia Goh,Severe Trauma,3
+Aiman Nair,Respiratory Failure,5
+Priya Hassan,Multiple Fractures,5
+Hao Lee,Burns,5
+Leela Sharma,Severe Trauma,3
+Lina Yong,Severe Trauma,5
+Farah Rahman,Severe Trauma,5
+Aiman Izzah,Seizure,4
+Hao Mah,Seizure,5
+Ahmad Ong,Seizure,1
+Nurul Farid,Respiratory Failure,2
+Yusuf Mah,Severe Trauma,5
+Maya Abdullah,Seizure,5
+Leela Rahman,Respiratory Failure,3
+Nur Hassan,Seizure,1
+Leela Chong,Cardiac Arrest,1
+Irfan Lim,Severe Trauma,3
+Adam Lee,Internal Bleeding,3
+Isabella Hassan,Respiratory Failure,5
+Leela Goh,Respiratory Failure,4
+Ava Abdullah,Anaphylaxis,5
+Chen Ong,Stroke,1
+Amir Kumar,Stroke,1
+Alya Ibrahim,Burns,4
+Nadia Farid,Respiratory Failure,3
+Liam Sharma,Internal Bleeding,2
+Hannah Mah,Head Injury,3
+Jonah Chin,Head Injury,2
+Ava Ong,Cardiac Arrest,5
+Zara Ng,Internal Bleeding,2
+Tanya Goh,Respiratory Failure,1
+Yusuf Chan,Cardiac Arrest,1
+Sara Abdullah,Multiple Fractures,5
+Jonah Hassan,Multiple Fractures,3
+Rina Halim,Head Injury,3
+Isabella Tan,Head Injury,5
+Jia Ong,Head Injury,5
+Sofia Lim,Severe Trauma,5
+Liam Chan,Cardiac Arrest,4
+Tanya Krishnan,Multiple Fractures,4
+Rina Ong,Multiple Fractures,4
+Hao Krishnan,Multiple Fractures,3
+Lucas Kumar,Burns,5
+Adam Ng,Head Injury,3
+Hannah Mah,Internal Bleeding,4
+Tanya Ibrahim,Respiratory Failure,5
+Siti Chong,Severe Trauma,3
+Mei Ibrahim,Internal Bleeding,1
+Ilya Chan,Head Injury,4
+Yusuf Krishnan,Anaphylaxis,2
+Noah Krishnan,Internal Bleeding,4
+Ava Krishnan,Internal Bleeding,1
+Alya Rahman,Severe Trauma,4
+Alya Kaur,Head Injury,2
+Sara Hussein,Cardiac Arrest,5
+Sara Kumar,Multiple Fractures,1
+Ali Teo,Internal Bleeding,5
+Wei Mah,Cardiac Arrest,2
+Wei Lee,Head Injury,2
+Sara Farid,Cardiac Arrest,5
+Hao Mah,Respiratory Failure,1
+Yusuf Sharma,Cardiac Arrest,3
+Nur Kaur,Internal Bleeding,3
+Aisyah Halim,Anaphylaxis,4
+Hao Ibrahim,Internal Bleeding,4
+Isabella Singh,Anaphylaxis,5
+Farah Iskandar,Multiple Fractures,5
+Ethan Rahman,Anaphylaxis,1
+Jia Ibrahim,Stroke,1
+Rahul Tan,Internal Bleeding,3
+Hao Razak,Internal Bleeding,5
+Chen Teo,Anaphylaxis,5
+Yusuf Rahman,Cardiac Arrest,1
+Siti Abdullah,Seizure,2
+Amir Ng,Respiratory Failure,2
+Nur Izzah,Internal Bleeding,4
+Ali Hassan,Internal Bleeding,3
+Ali Das,Severe Trauma,4
+Lina Kumar,Multiple Fractures,1
+Priya Hassan,Stroke,5
+Irfan Chin,Seizure,2
+Irfan Ong,Internal Bleeding,5
+Aiman Yong,Internal Bleeding,3
+Noah Chin,Respiratory Failure,3
+Daniel Kaur,Internal Bleeding,5
+Wei Halim,Head Injury,2
+Sara Farid,Head Injury,4
+Ethan Razak,Cardiac Arrest,4
+Nurul Lim,Seizure,4
+Farid Abdullah,Head Injury,1
+Tanya Chin,Respiratory Failure,3
+Adam Abdullah,Seizure,1
+Priya Mah,Head Injury,2
+Tanya Rahman,Head Injury,5
+Leela Abdullah,Stroke,5
+Ilya Teo,Respiratory Failure,3
+Rina Kumar,Anaphylaxis,5
+Zara Rahman,Head Injury,2
+Rina Yong,Stroke,3
+Ali Goh,Stroke,4
+Ethan Tan,Severe Trauma,2
+Rina Nair,Cardiac Arrest,1
+Lucas Kumar,Anaphylaxis,5
+Lucas Razak,Severe Trauma,3
+Rina Farid,Severe Trauma,5
+Lucas Rahman,Seizure,3
+Omar Razak,Internal Bleeding,1
+Ilya Yong,Cardiac Arrest,5
+Nurul Sharma,Seizure,4
+Siti Wong,Respiratory Failure,2
+Leela Halim,Head Injury,3
+Lina Das,Seizure,2
+Hao Wong,Severe Trauma,5
+Chen Ong,Cardiac Arrest,2
+Farid Halim,Head Injury,4
+Zara Das,Respiratory Failure,2
+Sara Goh,Severe Trauma,3
+Haziq Lee,Head Injury,5
+Ethan Rahman,Cardiac Arrest,5
+Aiman Singh,Head Injury,3
+Ali Halim,Internal Bleeding,3
+Ava Halim,Internal Bleeding,1
+Olivia Razak,Burns,5
+Mei Rahman,Stroke,1
+Rina Kumar,Burns,1
+Hao Chin,Internal Bleeding,3
+Omar Wong,Head Injury,4
+Adam Ong,Internal Bleeding,4
+Farid Ibrahim,Respiratory Failure,1
+Omar Kaur,Stroke,4
+Farah Razak,Cardiac Arrest,4
+Siti Halim,Respiratory Failure,3
+Ahmad Teo,Anaphylaxis,5
+Adam Abdullah,Anaphylaxis,3
+Aisyah Yong,Seizure,4
+Ava Das,Severe Trauma,4
+Lina Chin,Respiratory Failure,2
+Ling Abdullah,Head Injury,5
+Hannah Hassan,Internal Bleeding,2
+Daniel Goh,Internal Bleeding,2
+Amir Ong,Seizure,5
+Nurul Razak,Severe Trauma,4
+Karim Rahman,Anaphylaxis,2
+Tanya Rahman,Respiratory Failure,4
+Hannah Rahman,Stroke,4
+Ling Lee,Severe Trauma,3
+Ali Hassan,Stroke,4
+Emma Wong,Anaphylaxis,1
+Sara Hassan,Anaphylaxis,3
+Farid Chin,Cardiac Arrest,1
+Zara Abdullah,Internal Bleeding,1
+Nur Abdullah,Cardiac Arrest,1
+Wei Wong,Respiratory Failure,3
+Farid Wong,Cardiac Arrest,5
+Wei Kumar,Multiple Fractures,4
+Yusuf Das,Internal Bleeding,1
+Mei Nair,Head Injury,1
+Lucas Lee,Anaphylaxis,3
+Amir Tan,Stroke,3
+Aisyah Farid,Cardiac Arrest,2
+Hannah Das,Head Injury,3
+Maya Razak,Burns,2
+Emma Sharma,Anaphylaxis,2
+Leela Razak,Seizure,4
+Zara Hussein,Seizure,1
+Lina Chong,Cardiac Arrest,1
+Noah Singh,Seizure,1
+Farah Chan,Respiratory Failure,2
+Nadia Rahman,Multiple Fractures,3
+Siti Yong,Severe Trauma,3
+Zara Razak,Anaphylaxis,3
+Kumar Chan,Cardiac Arrest,1
+Tanya Farid,Head Injury,2
+Olivia Hassan,Stroke,1
+Daniel Yong,Anaphylaxis,2
+Leela Mah,Anaphylaxis,2
+Ling Kumar,Severe Trauma,5
+Ali Chan,Head Injury,4
+Chen Goh,Respiratory Failure,5
+Isabella Chan,Seizure,2
+Omar Das,Respiratory Failure,5
+Emma Razak,Anaphylaxis,5
+Ahmad Farid,Anaphylaxis,3
+Irfan Rahman,Seizure,3
+Sara Sharma,Severe Trauma,1
+Rina Abdullah,Severe Trauma,3
+Hannah Ibrahim,Burns,2
+Adam Halim,Burns,4
+Rahul Abdullah,Seizure,1
+Rahul Lee,Cardiac Arrest,1
+Haziq Farid,Severe Trauma,1
+Farah Nair,Cardiac Arrest,4
+Daniel Wong,Stroke,2
+Ravi Izzah,Seizure,4
+Siti Mah,Stroke,4
+Ali Sharma,Severe Trauma,4
+Aisyah Razak,Burns,5
+Nadia Das,Burns,1
+Irfan Halim,Multiple Fractures,1
+Noah Mah,Stroke,3
+Zara Sharma,Internal Bleeding,2
+Rina Singh,Head Injury,5
+Kumar Lim,Cardiac Arrest,5
+Arjun Rahman,Stroke,2
+Omar Chan,Stroke,2
+Nurul Hassan,Respiratory Failure,5
+Sofia Hassan,Respiratory Failure,2
+Ethan Kumar,Internal Bleeding,1
+Arjun Yong,Respiratory Failure,4
+Yusuf Razak,Internal Bleeding,3
+Nurul Razak,Burns,5
+Rina Nair,Cardiac Arrest,3
+Ling Rahman,Anaphylaxis,2
+Sofia Chong,Cardiac Arrest,3
+Leela Ong,Respiratory Failure,5
+Liam Ibrahim,Multiple Fractures,1
+Hakim Mah,Anaphylaxis,2
+Mei Goh,Seizure,1
+Ling Farid,Multiple Fractures,5
+Lucas Hussein,Severe Trauma,4
+Arjun Tan,Internal Bleeding,5
+Yusuf Kaur,Seizure,3
+Farah Chong,Stroke,2
+Farid Abdullah,Head Injury,3
+Amir Hussein,Stroke,4
+Jonah Sharma,Cardiac Arrest,1
+Rina Nair,Multiple Fractures,5
+Haziq Nair,Head Injury,2
+Wei Teo,Burns,2
+Ilya Hassan,Head Injury,2
+Emma Ibrahim,Severe Trauma,2
+Siti Chong,Seizure,1
+Daniel Kumar,Head Injury,5
+Irfan Tan,Seizure,4
+Yusuf Kumar,Respiratory Failure,1
+Hao Tan,Respiratory Failure,2
+Nurul Iskandar,Burns,4
+Olivia Chan,Cardiac Arrest,5
+Zara Kumar,Internal Bleeding,5
+Ali Rahman,Seizure,4
+Siti Farid,Respiratory Failure,5
+Rahul Yong,Head Injury,2
+Nurul Rahman,Anaphylaxis,3
+Aiman Hassan,Cardiac Arrest,1
+Alya Halim,Stroke,3
+Ravi Wong,Head Injury,1
+Sofia Farid,Stroke,5
+Ava Hussein,Severe Trauma,1
+Nadia Singh,Cardiac Arrest,5
+Ali Ong,Anaphylaxis,4
+Hao Ong,Respiratory Failure,4
+Liam Chong,Seizure,5
+Tanya Das,Seizure,5
+Hao Singh,Multiple Fractures,4
+Ali Chan,Anaphylaxis,5
+Omar Goh,Anaphylaxis,2
+Lucas Teo,Cardiac Arrest,1
+Ava Mah,Seizure,3
+Ethan Hassan,Severe Trauma,4
+Ahmad Lim,Severe Trauma,1
+Sara Razak,Seizure,3
+Leela Teo,Cardiac Arrest,2
+Emma Hassan,Severe Trauma,4
+Noah Chong,Head Injury,2
+Isabella Yong,Anaphylaxis,2
+Hakim Ong,Anaphylaxis,5
+Liam Kumar,Severe Trauma,3
+Omar Yong,Head Injury,1
+Emma Yong,Cardiac Arrest,1
+Ava Das,Stroke,4
+Mei Goh,Severe Trauma,3
+Zara Hussein,Multiple Fractures,1
+Hao Iskandar,Cardiac Arrest,3
+Isabella Lim,Severe Trauma,2
+Maya Razak,Internal Bleeding,1
+Arjun Halim,Seizure,4
+Siti Chan,Stroke,5
+Nadia Iskandar,Seizure,5
+Rahul Lim,Anaphylaxis,2
+Amir Halim,Cardiac Arrest,2
+Hao Krishnan,Anaphylaxis,4
+Omar Chan,Multiple Fractures,4
+Farid Ng,Stroke,4
+Irfan Ibrahim,Respiratory Failure,4
+Aiman Ng,Respiratory Failure,5
+Ethan Mah,Stroke,5
+Chen Nair,Burns,1
+Amir Hussein,Respiratory Failure,2
+Omar Chong,Internal Bleeding,1
+Karim Krishnan,Head Injury,5
+Omar Lim,Burns,3
+Wei Nair,Severe Trauma,4
+Ilya Abdullah,Stroke,1
+Irfan Kumar,Cardiac Arrest,1
+Priya Ong,Head Injury,3
+Yusuf Razak,Respiratory Failure,1
+Farah Mah,Respiratory Failure,2
+Hao Sharma,Head Injury,4
+Omar Lee,Burns,3
+Jia Ng,Multiple Fractures,5
+Sara Das,Head Injury,3
+Sara Lee,Respiratory Failure,2
+Kumar Singh,Severe Trauma,5
+Olivia Singh,Seizure,3
+Rina Izzah,Cardiac Arrest,3
+Ilya Das,Cardiac Arrest,3
+Sofia Razak,Internal Bleeding,3
+Ethan Krishnan,Multiple Fractures,2
+Wei Hussein,Seizure,3
+Ravi Wong,Cardiac Arrest,2
+Ling Ibrahim,Burns,2
+Ilya Sharma,Head Injury,3
+Isabella Rahman,Severe Trauma,2
+Sara Wong,Seizure,4
+Jonah Krishnan,Internal Bleeding,4
+Hannah Teo,Internal Bleeding,1
+Omar Razak,Multiple Fractures,5
+Maya Hussein,Severe Trauma,2
+Haziq Hassan,Multiple Fractures,5
+Hakim Nair,Anaphylaxis,2
+Hao Chin,Seizure,1
+Liam Yong,Anaphylaxis,5
+Emma Lim,Head Injury,1
+Siti Farid,Multiple Fractures,4
+Farid Goh,Anaphylaxis,2
+Kumar Teo,Internal Bleeding,4
+Arjun Sharma,Severe Trauma,5
+Ilya Lee,Multiple Fractures,3
+Ava Izzah,Seizure,2
+Ahmad Iskandar,Stroke,1
+Jia Ibrahim,Multiple Fractures,2
+Nur Teo,Severe Trauma,5
+Adam Izzah,Burns,5
+Tanya Ng,Internal Bleeding,3
+Hannah Goh,Cardiac Arrest,2
+Nadia Tan,Multiple Fractures,2
+Wei Das,Respiratory Failure,2
+Nurul Razak,Respiratory Failure,2
+Aisyah Hassan,Head Injury,4
+Adam Sharma,Cardiac Arrest,3
+Ali Wong,Anaphylaxis,5
+Priya Ng,Respiratory Failure,4
+Jia Abdullah,Seizure,3
+Nurul Kumar,Seizure,5
+Arjun Lee,Seizure,2
+Ahmad Chin,Severe Trauma,4
+Maya Chin,Respiratory Failure,4
+Rina Goh,Multiple Fractures,3
+Karim Izzah,Severe Trauma,2
+Aiman Kaur,Seizure,2
+Maya Wong,Head Injury,2
+Haziq Hussein,Internal Bleeding,5
+Hakim Teo,Stroke,5
+Isabella Das,Internal Bleeding,3
+Ravi Chong,Stroke,3
+Lucas Ng,Head Injury,5
+Ethan Singh,Severe Trauma,5
+Siti Izzah,Head Injury,3
+Ravi Mah,Internal Bleeding,5
+Adam Chan,Burns,1
+Zara Singh,Head Injury,4
+Aisyah Farid,Cardiac Arrest,1
+Aisyah Ibrahim,Multiple Fractures,4
+Yusuf Ibrahim,Anaphylaxis,4
+Zara Tan,Internal Bleeding,2
+Omar Farid,Multiple Fractures,3
+Lucas Farid,Seizure,5
+Leela Rahman,Burns,4
+Sara Chong,Seizure,5
+Aisyah Rahman,Multiple Fractures,3
+Ethan Wong,Respiratory Failure,4
+Nurul Ng,Head Injury,2
+Aisyah Hussein,Internal Bleeding,2
+Amir Ibrahim,Head Injury,2
+Farid Lee,Head Injury,3
+Hakim Chong,Respiratory Failure,4
+Nur Halim,Severe Trauma,5
+Farid Singh,Cardiac Arrest,2
+Liam Teo,Anaphylaxis,4
+Ali Goh,Severe Trauma,2
+Olivia Wong,Multiple Fractures,3
+Nurul Ong,Internal Bleeding,3
+Sofia Rahman,Multiple Fractures,4
+Adam Sharma,Seizure,4
+Rahul Razak,Multiple Fractures,5
+Chen Hussein,Severe Trauma,4
+Liam Nair,Seizure,3
+Rahul Hassan,Cardiac Arrest,2
+Yusuf Teo,Head Injury,3
+Ravi Chin,Anaphylaxis,2
+Ali Hussein,Severe Trauma,5
+Farah Tan,Severe Trauma,2
+Ethan Tan,Head Injury,3
+Amir Sharma,Respiratory Failure,2
+Ilya Ibrahim,Head Injury,5
+Lina Hussein,Severe Trauma,3
+Alya Razak,Severe Trauma,3
+Chen Razak,Stroke,1
+Arjun Ng,Anaphylaxis,1
+Chen Yong,Multiple Fractures,5
+Irfan Sharma,Cardiac Arrest,1
+Zara Sharma,Respiratory Failure,2
+Ling Lim,Cardiac Arrest,5
+Leela Iskandar,Head Injury,5
+Isabella Hussein,Cardiac Arrest,1
+Ava Ibrahim,Anaphylaxis,2
+Ali Singh,Anaphylaxis,4
+Sara Sharma,Severe Trauma,4
+Ethan Ong,Burns,1
+Ali Singh,Head Injury,4
+Siti Tan,Internal Bleeding,1
+Rahul Wong,Internal Bleeding,1
+Hao Halim,Head Injury,1
+Ali Teo,Stroke,2
+Yusuf Farid,Head Injury,4
+Leela Nair,Seizure,1
+Jonah Sharma,Severe Trauma,3
+Alya Hussein,Internal Bleeding,2
+Arjun Wong,Seizure,4
+Yusuf Abdullah,Internal Bleeding,5
+Sara Ibrahim,Seizure,4
+Ali Das,Burns,3
+Nadia Sharma,Internal Bleeding,4
+Yusuf Krishnan,Multiple Fractures,1
+Hakim Goh,Severe Trauma,4
+Farah Nair,Head Injury,1
+Kumar Hassan,Burns,1
+Daniel Tan,Internal Bleeding,5
+Wei Hassan,Burns,1
+Irfan Teo,Burns,3
+Adam Singh,Head Injury,2
+Wei Hassan,Cardiac Arrest,5
+Ravi Razak,Anaphylaxis,3
+Nadia Sharma,Cardiac Arrest,3
+Sara Teo,Internal Bleeding,1
+Olivia Teo,Burns,4
+Zara Farid,Cardiac Arrest,1
+Hao Hussein,Respiratory Failure,3
+Daniel Iskandar,Cardiac Arrest,3
+Aiman Sharma,Stroke,3
+Ava Ibrahim,Cardiac Arrest,1
+Farid Lim,Anaphylaxis,1
+Isabella Lee,Head Injury,3
+Nurul Singh,Internal Bleeding,4
+Aisyah Hassan,Head Injury,3
+Mei Yong,Severe Trauma,4
+Maya Chong,Cardiac Arrest,1
+Nur Chong,Burns,3
+Maya Razak,Respiratory Failure,3
+Noah Chong,Respiratory Failure,1
+Ava Nair,Burns,5
+Lucas Ng,Head Injury,3
+Rina Chin,Respiratory Failure,3
+Amir Izzah,Stroke,5
+Olivia Sharma,Severe Trauma,2
+Ahmad Ong,Respiratory Failure,5
+Mei Goh,Stroke,3
+Hao Chan,Burns,3
+Arjun Das,Head Injury,3
+Priya Nair,Internal Bleeding,5
+Ali Mah,Seizure,3
+Ethan Krishnan,Anaphylaxis,4
+Siti Lim,Stroke,3
+Rahul Izzah,Internal Bleeding,5
+Ali Das,Seizure,2
+Farah Chong,Multiple Fractures,1
+Adam Teo,Burns,1
+Isabella Yong,Respiratory Failure,2
+Leela Goh,Internal Bleeding,2
+Kumar Mah,Stroke,2
+Rahul Yong,Burns,2
+Farah Ng,Stroke,5
+Aisyah Hassan,Head Injury,3
+Maya Tan,Severe Trauma,1
+Haziq Nair,Seizure,4
+Tanya Singh,Burns,4
+Farah Chan,Seizure,3
+Tanya Lim,Anaphylaxis,4
+Nurul Goh,Burns,2
+Farah Iskandar,Respiratory Failure,2
+Rina Mah,Head Injury,3
+Hao Lim,Respiratory Failure,3
+Emma Hussein,Multiple Fractures,1
+Ethan Rahman,Anaphylaxis,1
+Sofia Rahman,Cardiac Arrest,2
+Farah Chong,Seizure,1
+Noah Iskandar,Seizure,1
+Jia Razak,Respiratory Failure,1
+Chen Rahman,Cardiac Arrest,5
+Nurul Mah,Burns,2
+Irfan Yong,Seizure,4
+Amir Ong,Burns,1
+Hannah Yong,Severe Trauma,4
+Daniel Nair,Seizure,3
+Lucas Iskandar,Cardiac Arrest,4
+Tanya Mah,Head Injury,1
+Emma Ong,Anaphylaxis,4
+Hao Das,Cardiac Arrest,3
+Aiman Sharma,Multiple Fractures,4
+Mei Chan,Severe Trauma,3
+Ethan Kaur,Severe Trauma,2
+Sofia Kaur,Seizure,2
+Daniel Chan,Burns,5
+Emma Razak,Anaphylaxis,1
+Emma Kaur,Severe Trauma,5
+Isabella Teo,Respiratory Failure,4
+Maya Chan,Stroke,4
+Nur Das,Severe Trauma,5
+Arjun Halim,Respiratory Failure,1
+Aisyah Abdullah,Anaphylaxis,4
+Sara Ong,Internal Bleeding,2
+Haziq Chin,Cardiac Arrest,2
+Nur Sharma,Severe Trauma,2
+Olivia Ng,Burns,5
+Karim Chong,Severe Trauma,5
+Yusuf Kumar,Internal Bleeding,2
+Lucas Singh,Internal Bleeding,3
+Isabella Kumar,Cardiac Arrest,4
+Liam Sharma,Seizure,5
+Priya Lim,Cardiac Arrest,2
+Alya Chan,Anaphylaxis,5
+Aisyah Farid,Anaphylaxis,5
+Daniel Ibrahim,Stroke,1
+Isabella Chin,Cardiac Arrest,4
+Ling Rahman,Cardiac Arrest,3
+Lina Goh,Stroke,4
+Nur Krishnan,Burns,5
+Sofia Sharma,Cardiac Arrest,3
+Aisyah Hassan,Stroke,2
+Sofia Izzah,Multiple Fractures,5
+Jonah Chan,Cardiac Arrest,2
+Hannah Hassan,Head Injury,2
+Priya Kaur,Severe Trauma,4
+Hakim Chong,Seizure,3
+Arjun Chong,Internal Bleeding,1
+Alya Hussein,Severe Trauma,1
+Daniel Izzah,Burns,5
+Ahmad Izzah,Internal Bleeding,1
+Olivia Abdullah,Seizure,4
+Tanya Ong,Anaphylaxis,1
+Ling Tan,Stroke,3
+Lina Wong,Multiple Fractures,5
+Ava Das,Severe Trauma,5
+Noah Chong,Stroke,1
+Nadia Lee,Anaphylaxis,2
+Isabella Tan,Severe Trauma,2
+Lina Izzah,Head Injury,1
+Ethan Chan,Severe Trauma,1
+Siti Krishnan,Burns,1
+Ravi Krishnan,Burns,3
+Leela Chong,Multiple Fractures,1
+Rina Halim,Cardiac Arrest,2
+Farah Halim,Burns,1
+Maya Razak,Head Injury,5
+Noah Wong,Seizure,1
+Rahul Mah,Cardiac Arrest,3
+Adam Singh,Head Injury,1
+Aiman Abdullah,Cardiac Arrest,1
+Haziq Iskandar,Stroke,2
+Nur Ong,Head Injury,3
+Alya Teo,Burns,3
+Siti Teo,Seizure,2
+Haziq Das,Multiple Fractures,1
+Aiman Ng,Seizure,3
+Sara Lee,Anaphylaxis,4
+Zara Nair,Head Injury,3
+Liam Ibrahim,Seizure,5
+Jonah Wong,Burns,2
+Hakim Rahman,Seizure,5
+Ilya Lee,Stroke,4
+Wei Chong,Internal Bleeding,2
+Rina Sharma,Severe Trauma,2
+Sofia Sharma,Severe Trauma,4
+Aiman Goh,Seizure,4
+Ling Chong,Internal Bleeding,1
+Amir Tan,Stroke,1
+Yusuf Abdullah,Head Injury,1
+Olivia Kumar,Seizure,5
+Rina Nair,Severe Trauma,1
+Hao Lee,Cardiac Arrest,2
+Ethan Rahman,Cardiac Arrest,5
+Jonah Abdullah,Severe Trauma,1
+Hakim Izzah,Anaphylaxis,2
+Hakim Kumar,Head Injury,3
+Yusuf Chong,Anaphylaxis,3
+Isabella Rahman,Head Injury,4
+Amir Kaur,Stroke,4
+Aiman Teo,Head Injury,4
+Jonah Sharma,Multiple Fractures,2
+Lucas Singh,Burns,1
+Olivia Iskandar,Multiple Fractures,3
+Omar Ong,Burns,3
+Arjun Teo,Internal Bleeding,2
+Lucas Ong,Stroke,1
+Haziq Tan,Severe Trauma,2
+Adam Kumar,Head Injury,2
+Priya Wong,Internal Bleeding,1
+Chen Sharma,Respiratory Failure,4
+Ava Razak,Respiratory Failure,2
+Farid Yong,Cardiac Arrest,5
+Haziq Krishnan,Burns,1
+Hao Tan,Cardiac Arrest,4
+Hao Lim,Stroke,1
+Farid Goh,Multiple Fractures,4
+Nadia Hassan,Anaphylaxis,4
+Irfan Goh,Stroke,3
+Mei Nair,Cardiac Arrest,5
+Yusuf Iskandar,Head Injury,2
+Farid Hassan,Stroke,2
+Yusuf Iskandar,Seizure,4
+Ilya Kaur,Severe Trauma,3
+Maya Kaur,Cardiac Arrest,3
+Arjun Nair,Burns,3
+Tanya Chin,Respiratory Failure,2
+Alya Chong,Stroke,3
+Zara Teo,Stroke,1
+Ravi Lim,Burns,4
+Adam Chin,Burns,2
+Amir Razak,Anaphylaxis,5
+Ali Chong,Internal Bleeding,1
+Amir Izzah,Cardiac Arrest,2
+Farid Lim,Seizure,1
+Chen Ibrahim,Cardiac Arrest,2
+Ravi Izzah,Head Injury,4
+Olivia Hussein,Severe Trauma,3
+Lina Ong,Respiratory Failure,5
+Ethan Iskandar,Seizure,5
+Ling Ibrahim,Severe Trauma,3
+Karim Tan,Respiratory Failure,3
+Aisyah Abdullah,Cardiac Arrest,3
+Farah Tan,Multiple Fractures,2
+Isabella Chan,Anaphylaxis,4
+Liam Ibrahim,Cardiac Arrest,5
+Ilya Das,Seizure,4
+Omar Rahman,Head Injury,3
+Leela Ong,Burns,3
+Wei Kumar,Anaphylaxis,4
+Ahmad Chin,Burns,5
+Tanya Chin,Multiple Fractures,2
+Lina Nair,Head Injury,4
+Rahul Chin,Internal Bleeding,2
+Hannah Mah,Respiratory Failure,4
+Lina Ong,Seizure,2
+Aiman Hassan,Respiratory Failure,2
+Karim Singh,Multiple Fractures,1
+Ravi Ong,Head Injury,4
+Amir Kumar,Head Injury,5
+Alya Ng,Head Injury,5
+Siti Chong,Severe Trauma,1
+Ravi Singh,Severe Trauma,2
+Priya Halim,Anaphylaxis,2
+Alya Izzah,Cardiac Arrest,4
+Yusuf Das,Anaphylaxis,2
+Liam Razak,Seizure,5
+Ahmad Sharma,Anaphylaxis,2
+Siti Izzah,Head Injury,1
+Aiman Abdullah,Stroke,1
+Lina Sharma,Anaphylaxis,5
+Karim Chong,Internal Bleeding,3
+Isabella Nair,Severe Trauma,5
+Hannah Nair,Multiple Fractures,2
+Jonah Chong,Respiratory Failure,1
+Farah Lee,Anaphylaxis,3
+Sara Iskandar,Head Injury,3
+Siti Krishnan,Head Injury,5
+Ling Halim,Seizure,2
+Mei Chan,Seizure,5
+Sofia Lim,Stroke,2
+Rahul Farid,Stroke,2
+Farid Chin,Internal Bleeding,5
+Siti Hussein,Cardiac Arrest,1
+Omar Razak,Head Injury,2
+Lucas Goh,Burns,2
+Arjun Tan,Head Injury,3
+Irfan Goh,Respiratory Failure,3
+Zara Ong,Anaphylaxis,4
+Mei Chan,Multiple Fractures,4
+Maya Nair,Seizure,3
+Nurul Lim,Internal Bleeding,4
+Ahmad Goh,Anaphylaxis,3
+Zara Kumar,Head Injury,1
+Sofia Hassan,Multiple Fractures,2
+Nadia Hassan,Stroke,1
+Haziq Teo,Anaphylaxis,1
+Hakim Mah,Stroke,5
+Aiman Abdullah,Cardiac Arrest,3
+Priya Chan,Cardiac Arrest,3
+Nur Chin,Head Injury,1
+Aisyah Kaur,Stroke,5
+Sofia Das,Burns,2
+Tanya Goh,Anaphylaxis,2
+Lina Ng,Anaphylaxis,3
+Farid Lee,Head Injury,3
+Isabella Kaur,Respiratory Failure,2
+Hakim Hassan,Stroke,1
+Priya Tan,Head Injury,3
+Ravi Ibrahim,Anaphylaxis,5
+Ali Chin,Cardiac Arrest,1
+Jonah Rahman,Stroke,5
+Olivia Nair,Multiple Fractures,1
+Noah Das,Respiratory Failure,2
+Ravi Razak,Respiratory Failure,4
+Aiman Teo,Anaphylaxis,4
+Ethan Abdullah,Stroke,2
+Hao Teo,Burns,5
+Hannah Rahman,Head Injury,2
+Amir Hassan,Severe Trauma,2
+Mei Razak,Anaphylaxis,2
+Rahul Kaur,Multiple Fractures,5
+Adam Goh,Multiple Fractures,5
+Amir Halim,Internal Bleeding,1
+Isabella Nair,Internal Bleeding,1
+Tanya Ibrahim,Burns,2
+Ling Das,Burns,5
+Sofia Teo,Stroke,3
+Ravi Chong,Internal Bleeding,5
+Nurul Ng,Multiple Fractures,5
+Sofia Krishnan,Multiple Fractures,1
+Alya Farid,Cardiac Arrest,5
+Nadia Kumar,Stroke,2
+Haziq Hussein,Cardiac Arrest,5
+Liam Goh,Head Injury,5
+Noah Kumar,Stroke,2
+Nurul Rahman,Multiple Fractures,2
+Chen Iskandar,Stroke,2
+Ilya Wong,Seizure,1
+Kumar Hassan,Multiple Fractures,5
+Ethan Razak,Stroke,2
+Sofia Ibrahim,Seizure,4
+Sara Chan,Anaphylaxis,3
+Noah Abdullah,Stroke,5
+Maya Ibrahim,Burns,3
+Farid Singh,Burns,3
+Farid Ong,Multiple Fractures,2
+Yusuf Kaur,Severe Trauma,3
+Siti Chin,Internal Bleeding,2
+Isabella Abdullah,Seizure,5
+Zara Tan,Internal Bleeding,4
+Rahul Farid,Severe Trauma,1
+Isabella Lim,Cardiac Arrest,3
+Zara Halim,Stroke,4
+Ling Chong,Cardiac Arrest,1
+Arjun Lee,Multiple Fractures,4
+Ilya Ng,Internal Bleeding,4
+Liam Izzah,Internal Bleeding,3
+Chen Lee,Burns,2
+Leela Halim,Head Injury,2
+Ava Ong,Anaphylaxis,2
+Adam Singh,Internal Bleeding,3
+Lucas Abdullah,Internal Bleeding,4
+Lucas Goh,Respiratory Failure,5
+Olivia Lee,Respiratory Failure,4
+Ling Goh,Stroke,3
+Ilya Farid,Head Injury,1
+Isabella Hassan,Head Injury,5
+Adam Chong,Respiratory Failure,3
+Priya Nair,Stroke,4
+Daniel Nair,Anaphylaxis,4
+Sofia Tan,Seizure,3
+Maya Iskandar,Multiple Fractures,3
+Aisyah Hussein,Severe Trauma,5
+Irfan Goh,Multiple Fractures,2
+Nadia Iskandar,Seizure,4
+Olivia Ong,Severe Trauma,1
+Hannah Kaur,Head Injury,2
+Jonah Iskandar,Severe Trauma,2
+Ethan Tan,Cardiac Arrest,1
+Ahmad Kaur,Stroke,2
+Ava Kumar,Internal Bleeding,2
+Olivia Hassan,Burns,3
+Hannah Wong,Cardiac Arrest,5
+Hao Ng,Burns,5
+Omar Krishnan,Burns,5
+Rina Razak,Seizure,2
+Farah Krishnan,Internal Bleeding,3
+Daniel Teo,Anaphylaxis,4
+Hakim Lim,Respiratory Failure,1
+Wei Kaur,Respiratory Failure,3
+Hannah Hassan,Anaphylaxis,5
+Liam Chong,Seizure,2
+Hannah Ibrahim,Head Injury,3
+Hao Rahman,Internal Bleeding,5
+Aisyah Mah,Multiple Fractures,1
+Haziq Ng,Stroke,4
+Zara Lim,Internal Bleeding,5
+Daniel Singh,Severe Trauma,4
+Jonah Izzah,Seizure,3
+Omar Kaur,Cardiac Arrest,2
+Ilya Chong,Stroke,1
+Ethan Rahman,Burns,3
+Farah Singh,Multiple Fractures,3
+Omar Tan,Stroke,4
+Adam Nair,Internal Bleeding,2
+Aisyah Wong,Multiple Fractures,4
+Ling Lim,Internal Bleeding,4
+Lina Chan,Head Injury,5
+Isabella Ng,Anaphylaxis,2
+Omar Das,Cardiac Arrest,1
+Rina Chin,Cardiac Arrest,4
+Kumar Kaur,Respiratory Failure,5
+Chen Ibrahim,Multiple Fractures,3
+Ali Chan,Respiratory Failure,2
+Lucas Chong,Anaphylaxis,3
+Jonah Yong,Seizure,4
+Olivia Das,Stroke,4
+Nurul Wong,Stroke,1
+Arjun Yong,Cardiac Arrest,1
+Sofia Ng,Anaphylaxis,5
+Aiman Izzah,Anaphylaxis,2
+Priya Abdullah,Multiple Fractures,5
+Hannah Nair,Internal Bleeding,4
+Ethan Ng,Respiratory Failure,2
+Nadia Kaur,Stroke,2
+Hakim Singh,Stroke,2
+Ava Chong,Cardiac Arrest,2
+Zara Tan,Stroke,4
+Wei Goh,Head Injury,3
+Alya Hussein,Anaphylaxis,4
+Nadia Hassan,Respiratory Failure,3
+Haziq Razak,Head Injury,3
+Noah Kumar,Multiple Fractures,5
+Alya Izzah,Burns,5
+Yusuf Ong,Severe Trauma,3
+Isabella Lim,Respiratory Failure,4
+Adam Lee,Multiple Fractures,2
+Tanya Izzah,Stroke,4
+Ali Singh,Anaphylaxis,2
+Sofia Kumar,Seizure,4
+Siti Razak,Multiple Fractures,3
+Tanya Teo,Head Injury,2
+Omar Ng,Severe Trauma,3
+Alya Wong,Head Injury,5
+Yusuf Rahman,Cardiac Arrest,4
+Haziq Farid,Anaphylaxis,2
+Amir Hussein,Burns,3
+Zara Krishnan,Stroke,2
+Kumar Hassan,Anaphylaxis,1
+Adam Tan,Multiple Fractures,3
+Omar Lee,Anaphylaxis,4
+Chen Das,Burns,1
+Chen Ong,Internal Bleeding,3
+Amir Halim,Internal Bleeding,1
+Ravi Lim,Seizure,2
+Lucas Mah,Head Injury,5
+Olivia Farid,Stroke,5
+Ahmad Rahman,Respiratory Failure,4
+Sara Iskandar,Severe Trauma,1
+Aisyah Tan,Seizure,1
+Hao Nair,Cardiac Arrest,2
+Ali Goh,Anaphylaxis,3
+Yusuf Ong,Stroke,1
+Olivia Chan,Multiple Fractures,1
+Aiman Razak,Respiratory Failure,1
+Liam Singh,Stroke,1
+Mei Ibrahim,Anaphylaxis,5
+Isabella Lee,Burns,2
+Nurul Mah,Seizure,3
+Ahmad Hassan,Severe Trauma,3
+Jia Singh,Seizure,1
+Hao Abdullah,Severe Trauma,3
+Hakim Sharma,Burns,2
+Nadia Nair,Internal Bleeding,3
+Rahul Halim,Respiratory Failure,3
+Nadia Hussein,Cardiac Arrest,5
+Lina Lim,Severe Trauma,1
+Mei Kaur,Burns,1
+Jonah Chong,Burns,1
+Noah Wong,Severe Trauma,4
+Farah Ibrahim,Head Injury,5
+Farid Chong,Head Injury,2
+Ava Krishnan,Seizure,1
+Sofia Ong,Respiratory Failure,4
+Adam Sharma,Cardiac Arrest,3
+Ilya Abdullah,Seizure,4
+Haziq Singh,Respiratory Failure,1
+Nadia Ng,Stroke,2
+Aiman Singh,Burns,4
+Rahul Ibrahim,Seizure,5
+Ava Izzah,Multiple Fractures,5
+Nadia Ibrahim,Respiratory Failure,3
+Isabella Sharma,Cardiac Arrest,5
+Amir Chin,Severe Trauma,4
+Adam Kaur,Seizure,2
+Noah Ibrahim,Severe Trauma,3
+Nurul Kaur,Respiratory Failure,5
+Jonah Kumar,Anaphylaxis,5
+Zara Farid,Stroke,1
+Noah Abdullah,Severe Trauma,4
+Farid Ibrahim,Anaphylaxis,2
+Farid Chong,Cardiac Arrest,5
+Ilya Ong,Anaphylaxis,2
+Lucas Goh,Burns,5
+Noah Izzah,Respiratory Failure,2
+Nur Yong,Burns,2
+Liam Krishnan,Severe Trauma,1
+Adam Iskandar,Stroke,5
+Rahul Ng,Stroke,2
+Nurul Iskandar,Respiratory Failure,1
+Ahmad Lim,Stroke,2
+Farah Singh,Respiratory Failure,3
+Nurul Kaur,Cardiac Arrest,1
+Jonah Singh,Internal Bleeding,1
+Aiman Hussein,Cardiac Arrest,4
+Ling Teo,Burns,2
+Daniel Halim,Internal Bleeding,4
+Maya Lee,Head Injury,3
+Olivia Teo,Stroke,2
+Hannah Lim,Severe Trauma,5
+Ava Ibrahim,Burns,3
+Ilya Chong,Internal Bleeding,5
+Priya Halim,Anaphylaxis,3
+Amir Teo,Cardiac Arrest,4
+Rina Mah,Internal Bleeding,2
+Lina Mah,Stroke,4
+Priya Ong,Burns,4
+Farah Hassan,Cardiac Arrest,5
+Hakim Yong,Cardiac Arrest,1
+Jia Halim,Respiratory Failure,2
+Jia Chong,Internal Bleeding,3
+Jonah Ibrahim,Severe Trauma,1
+Arjun Lee,Burns,5
+Ali Tan,Internal Bleeding,2
+Lucas Sharma,Burns,5
+Isabella Rahman,Anaphylaxis,4
+Nur Ibrahim,Anaphylaxis,5
+Noah Chong,Head Injury,2
+Farah Nair,Anaphylaxis,4
+Noah Hassan,Multiple Fractures,2
+Tanya Krishnan,Seizure,4
+Aiman Ibrahim,Cardiac Arrest,3
+Yusuf Ong,Cardiac Arrest,4
+Ling Das,Cardiac Arrest,4
+Ilya Das,Severe Trauma,4
+Liam Wong,Anaphylaxis,1
+Farah Lim,Respiratory Failure,3
+Rina Farid,Burns,5
+Rahul Ong,Anaphylaxis,3
+Lucas Razak,Seizure,1
+Ava Halim,Stroke,3
+Amir Nair,Internal Bleeding,3
+Sara Ibrahim,Multiple Fractures,4
+Aiman Krishnan,Burns,3
+Jia Chin,Multiple Fractures,3
+Karim Chan,Anaphylaxis,3
+Hannah Lee,Cardiac Arrest,5
+Wei Ong,Burns,3
+Ali Singh,Severe Trauma,4
+Priya Krishnan,Head Injury,1
+Adam Razak,Anaphylaxis,2
+Lucas Ibrahim,Stroke,2
+Mei Chong,Internal Bleeding,3
+Karim Lee,Cardiac Arrest,3
+Kumar Chong,Burns,4
+Liam Kumar,Stroke,5
+Ilya Lim,Seizure,3
+Ethan Tan,Cardiac Arrest,3
+Jonah Mah,Burns,2
+Emma Farid,Seizure,3
+Irfan Wong,Respiratory Failure,5
+Karim Sharma,Respiratory Failure,4
+Daniel Kumar,Cardiac Arrest,1
+Siti Izzah,Head Injury,1
+Omar Chong,Seizure,3
+Jia Lim,Stroke,2
+Ilya Singh,Severe Trauma,4
+Arjun Krishnan,Anaphylaxis,4
+Chen Yong,Burns,1
+Tanya Iskandar,Burns,4
+Nurul Ng,Cardiac Arrest,3
+Haziq Hussein,Burns,5
+Kumar Hassan,Burns,5
+Hao Chin,Respiratory Failure,2
+Aisyah Hassan,Internal Bleeding,2
+Haziq Das,Multiple Fractures,1
+Farid Sharma,Stroke,1
+Hao Teo,Multiple Fractures,4
+Ahmad Razak,Multiple Fractures,3
+Zara Tan,Stroke,3
+Karim Tan,Head Injury,2
+Farid Farid,Severe Trauma,4
+Sofia Singh,Head Injury,5
+Kumar Mah,Internal Bleeding,2
+Farid Hassan,Severe Trauma,3
+Tanya Lim,Severe Trauma,5
+Sofia Farid,Severe Trauma,5
+Rina Ibrahim,Head Injury,2
+Ling Ibrahim,Multiple Fractures,5
+Hakim Hussein,Respiratory Failure,2
+Siti Teo,Respiratory Failure,1
+Haziq Singh,Severe Trauma,4
+Mei Das,Stroke,4
+Mei Chong,Stroke,5
+Ilya Lim,Burns,5
+Irfan Ibrahim,Respiratory Failure,3
+Lucas Yong,Burns,2
+Omar Hassan,Severe Trauma,4
+Chen Lee,Burns,1
+Hannah Rahman,Stroke,3
+Aiman Farid,Internal Bleeding,4
+Rina Chin,Cardiac Arrest,5
+Haziq Kumar,Anaphylaxis,4
+Alya Das,Respiratory Failure,5
+Hao Lee,Multiple Fractures,3
