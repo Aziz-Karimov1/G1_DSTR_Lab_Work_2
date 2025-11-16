@@ -1,1 +1,14 @@
-// this file used for sample data, // just placeholders to test code, main data reading happens @CsvIO.cpp
+#ifndef SAMPLEDATA_HPP
+#define SAMPLEDATA_HPP
+
+#include "PatientQueue.hpp"
+#include "SupplyStack.hpp"
+#include "EmergencyPriorityQueue.hpp"
+#include "AmbulanceCircularQueue.hpp"
+
+class SampleData {
+public:
+    static void populate(PatientQueue& pq, SupplyStack& ss, EmergencyPriorityQueue& eq, AmbulanceCircularQueue& aq);
+};
+
+#endif // SAMPLEDATA_HPP

@@ -3,30 +3,28 @@
 
 #include <string>
 
-// Simple, POD-like records shared by modules.
-
 struct Patient {
-    int id{};
+    int id;
     std::string name;
-    std::string conditionType; // e.g., "flu", "fracture"
+    std::string condition;
 };
 
-struct SupplyItem {
-    std::string type;   // e.g., "mask", "bandage"
-    int quantity{};     // units in this batch
-    std::string batch;  // batch code or date
+struct Supply {
+    std::string type;
+    int quantity;
+    std::string batch;
 };
 
 struct EmergencyCase {
     std::string patientName;
-    std::string emergencyType; // e.g., "cardiac", "trauma"
-    // Priority convention: 1 = most critical (min-heap).
-    int priority{};
+    std::string emergencyType;
+    int priority; // larger -> more critical
 };
 
 struct Ambulance {
-    int code{};             // e.g., 101
-    std::string driverName; // optional
+    int id;
+    std::string plate;
+    std::string driver;
 };
 
 #endif // MODELS_HPP
